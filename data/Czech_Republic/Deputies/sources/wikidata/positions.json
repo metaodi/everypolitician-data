@@ -442,6 +442,15 @@
       "id": "Q19803234",
       "label": "Member of the Chamber of Deputies of the Parliament of the Czech Republic",
       "title": "Member of the Chamber of Deputies of the Parliament of the Czech Republic"
+    },
+    {
+      "id": "Q12339722",
+      "label": "transport minister",
+      "title": "transport minister",
+      "qualifiers": {
+        "P580": "2010-07-13",
+        "P582": "2011-04-08"
+      }
     }
   ],
   "Q12059145": [
@@ -1152,7 +1161,7 @@
         "P582": "2002-07-15",
         "P1365": "Josef Tošovský",
         "P1366": "Vladimír Špidla",
-        "P805": "Q3112520"
+        "P805": "Miloš Zeman's cabinet"
       }
     },
     {
@@ -6458,10 +6467,10 @@
     {
       "id": "Q17578116",
       "label": "interior minister",
-      "title": "interior minister (of Q3112520)",
+      "title": "interior minister (of Miloš Zeman's cabinet)",
       "description": "minister in charge of interior or home affairs",
       "qualifiers": {
-        "P642": "Q3112520",
+        "P642": "Miloš Zeman's cabinet",
         "P580": "2000-04-05",
         "P582": "2002-07-15",
         "P1365": "Václav Grulich",
@@ -6471,10 +6480,10 @@
     {
       "id": "Q877955",
       "label": "deputy prime minister",
-      "title": "deputy prime minister (of Q3112694)",
+      "title": "deputy prime minister (of Vladimír Špidla's cabinet)",
       "description": "civil servant position",
       "qualifiers": {
-        "P642": "Q3112694",
+        "P642": "Vladimír Špidla's cabinet",
         "P580": "2002-06-15",
         "P582": "2004-08-04"
       }
