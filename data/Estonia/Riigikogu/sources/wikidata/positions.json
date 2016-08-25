@@ -379,6 +379,17 @@
       }
     }
   ],
+  "Q1453245": [
+    {
+      "id": "Q21100241",
+      "label": "member of the Estonian Riigikogu",
+      "title": "member of the Estonian Riigikogu",
+      "description": "person who has been elected to the Estonian Riigikogu",
+      "qualifiers": {
+        "P2937": "13th Riigikogu"
+      }
+    }
+  ],
   "Q13607430": [
     {
       "id": "Q21100241",
@@ -1602,7 +1613,8 @@
       "title": "Mayor of Tallinn",
       "qualifiers": {
         "P580": "2007-04-09",
-        "P1365": "Jüri Ratas"
+        "P1365": "Jüri Ratas",
+        "P582": "2015"
       }
     },
     {
