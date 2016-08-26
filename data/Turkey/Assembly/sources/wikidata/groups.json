@@ -1702,7 +1702,7 @@
       },
       {
         "lang": "ru",
-        "name": "Партия национального действия",
+        "name": "Партия националистического движения",
         "note": "multilingual"
       },
       {
@@ -1799,6 +1799,11 @@
         "lang": "tr",
         "name": "MHP",
         "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Партия национального действия",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -1869,7 +1874,7 @@
       },
       {
         "lang": "ru",
-        "name": "Партия справедливости",
+        "name": "Партия справедливости (Турция)",
         "note": "multilingual"
       },
       {
@@ -2202,6 +2207,11 @@
         "lang": "tr",
         "name": "Demokratik Sol Parti - DSP",
         "note": "multilingual"
+      },
+      {
+        "lang": "en",
+        "name": "DSP",
+        "note": "multilingual"
       }
     ],
     "links": [
@@ -2252,6 +2262,11 @@
       {
         "lang": "fr",
         "name": "Parti social-démocrate populiste",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ru",
+        "name": "Социал-демократическая народная партия",
         "note": "multilingual"
       },
       {
@@ -3809,6 +3824,16 @@
       {
         "lang": "cs",
         "name": "bez stranické příslušnosti",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "нестраначки политичар",
+        "note": "multilingual"
+      },
+      {
+        "lang": "sr",
+        "name": "ванстраначки политичар",
         "note": "multilingual"
       }
     ]
