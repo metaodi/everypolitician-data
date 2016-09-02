@@ -11165,6 +11165,7 @@
         "popolo": "data/Aland/Lagting/ep-popolo-v1.0.json",
         "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f6aafcb5479abbfaa8a32cf46ceab6b9a3cc3dda/data/Aland/Lagting/ep-popolo-v1.0.json",
         "names": "data/Aland/Lagting/names.csv",
+        "latest_update": "2016-08-08",
         "lastmod": "1470658552",
         "person_count": 60,
         "sha": "f6aafcb5479abbfaa8a32cf46ceab6b9a3cc3dda",
