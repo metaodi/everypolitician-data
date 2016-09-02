@@ -76,6 +76,7 @@ task 'countries.json' do
         sha, lastmod = commit_metadata[json_file].values_at :sha, :timestamp
         lname = name_from(popolo)
         lslug = h.split('/').last.tr('_', '-')
+
         {
           name:                lname,
           slug:                lslug,
@@ -83,6 +84,7 @@ task 'countries.json' do
           popolo:              json_file,
           popolo_url:          remote_source % [sha, json_file],
           names:               name_file,
+          latest_update:       Time.at(lastmod.to_i).gmtime.to_date.to_s,
           lastmod:             lastmod,
           person_count:        popolo[:persons].size,
           sha:                 sha,
