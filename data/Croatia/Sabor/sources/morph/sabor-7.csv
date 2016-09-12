@@ -1,4 +1,15 @@
 id,name,sortname,image,party,birth_date,constituency,term,start_date,end_date,source
+4875,Željko Sabo,"Sabo, Željko",http://www.sabor.hr/lgs.axd?t=16&id=19629,SDP,1954-04-21,5th,7,2011-12-22,2015-03-20,http://www.sabor.hr/lgs.axd?t=24&id=4875
+4939,Davor Ivo Stier,"Stier, Davor Ivo",http://www.sabor.hr/lgs.axd?t=16&id=19643,HDZ,1972-01-06,7th,7,2011-12-22,2014-07-01,http://www.sabor.hr/lgs.axd?t=24&id=4939
+4945,Vladimir Šeks,"Šeks, Vladimir",http://www.sabor.hr/lgs.axd?t=16&id=19633,HDZ,1943-01-01,4th,7,2011-12-22,2015-05-08,http://www.sabor.hr/lgs.axd?t=24&id=4945
+5065,Dan Špicer,"Špicer, Dan",http://www.sabor.hr/lgs.axd?t=16&id=19637,SDP,1977-11-30,6th,7,2011-12-23,2012-06-19,http://www.sabor.hr/lgs.axd?t=24&id=5065
+4953,Boris Šprem,"Šprem, Boris",http://www.sabor.hr/lgs.axd?t=16&id=19640,SDP,1956-04-14,2nd,7,2011-12-22,2012-09-30,http://www.sabor.hr/lgs.axd?t=24&id=4953
+4959,Ruža Tomašić,"Tomašić, Ruža",http://www.sabor.hr/lgs.axd?t=16&id=19647,HSP dr. Ante Starčević,1958-05-10,10th,7,2011-12-22,2014-07-01,http://www.sabor.hr/lgs.axd?t=24&id=4959
+4861,Zoran Vasić,"Vasić, Zoran",http://www.sabor.hr/lgs.axd?t=16&id=19820,SDP,1976-04-09,6th,7,2011-12-22,2014-09-11,http://www.sabor.hr/lgs.axd?t=24&id=4861
+4846,Zoran Vinković,"Vinković, Zoran",http://www.sabor.hr/lgs.axd?t=16&id=19653,HDSSB,1966-01-30,4th,7,2011-12-22,2013-09-11,http://www.sabor.hr/lgs.axd?t=24&id=4846
+5116,Branko Vukelić,"Vukelić, Branko",http://www.sabor.hr/lgs.axd?t=16&id=19821,HDZ,1958-03-09,7th,7,2011-12-22,2013-05-03,http://www.sabor.hr/lgs.axd?t=24&id=5116
+5359,Marija Vukobratović,"Vukobratović, Marija",http://www.sabor.hr/lgs.axd?t=16&id=19822,SDP,1958-09-18,2nd,7,2012-01-18,2013-07-19,http://www.sabor.hr/lgs.axd?t=24&id=5359
+5652,Marijana Živko,"Živko, Marijana",http://www.sabor.hr/lgs.axd?t=16&id=24987,SDP,1975-06-19,4th,7,2013-07-05,2014-05-16,http://www.sabor.hr/lgs.axd?t=24&id=5652
 4728,Ingrid Antičević Marinović,"Antičević Marinović, Ingrid",http://www.sabor.hr/lgs.axd?t=16&id=19522,SDP,1957-10-04,9th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4728
 4859,Ante Babić,"Babić, Ante",http://www.sabor.hr/lgs.axd?t=16&id=19523,HDZ,1966-05-26,10th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4859
 4971,Vedran Babić,"Babić, Vedran",http://www.sabor.hr/lgs.axd?t=16&id=19524,SDP,1976-12-10,2nd,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4971
@@ -62,12 +73,15 @@ id,name,sortname,image,party,birth_date,constituency,term,start_date,end_date,so
 4745,Veljko Kajtazi,"Kajtazi, Veljko",http://www.sabor.hr/lgs.axd?t=16&id=19580,Independent,1960-02-14,12th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4745
 4752,Tomislav Karamarko,"Karamarko, Tomislav",http://www.sabor.hr/lgs.axd?t=16&id=19582,HDZ,1959-05-25,3rd,7,2011-12-23,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4752
 4754,Željko Kerum,"Kerum, Željko",http://www.sabor.hr/lgs.axd?t=16&id=19583,HGS,1960-09-25,10th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4754
+5650,Tomislav Klarić,"Klarić, Tomislav",http://www.sabor.hr/lgs.axd?t=16&id=24981,HDZ,1964-03-31,7th,7,2013-07-01,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5650
 5061,Ivan Klarin,"Klarin, Ivan",http://www.sabor.hr/lgs.axd?t=16&id=19808,SDP,1985-07-16,9th,7,2011-12-23,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5061
 5063,Igor Kolman,"Kolman, Igor",http://www.sabor.hr/lgs.axd?t=16&id=19585,HNS,1979-05-18,1st,7,2011-12-23,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5063
 4762,Ana Komparić Devčić,"Komparić Devčić, Ana",http://www.sabor.hr/lgs.axd?t=16&id=19586,SDP,1976-04-18,8th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4762
 4765,Sonja Konig,"König, Sonja",http://www.sabor.hr/lgs.axd?t=16&id=19587,HNS,1974-08-03,3rd,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4765
 4767,Jadranka Kosor,"Kosor, Jadranka",http://www.sabor.hr/lgs.axd?t=16&id=19588,Independent,1953-07-01,5th,7,2011-12-23,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4767
 4774,Josip Kregar,"Kregar, Josip",http://www.sabor.hr/lgs.axd?t=16&id=19590,Naprijed Hrvatska!,1953-01-01,1st,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4774
+5955,Josip Krnić,"Krnić, Josip",http://www.sabor.hr/lgs.axd?t=16&id=42142,SDP,1969-03-19,5th,7,2015-03-20,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5955
+5971,Tugomir Kuduz,"Kuduz, Tugomir",http://www.sabor.hr/lgs.axd?t=16&id=42606,HDZ,1956-04-14,4th,7,2015-05-08,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5971
 4779,Ante Kulušić,"Kulušić, Ante",http://www.sabor.hr/lgs.axd?t=16&id=19591,HDZ,1958-06-22,9th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4779
 4783,Branko Kutija,"Kutija, Branko",http://www.sabor.hr/lgs.axd?t=16&id=19596,HDZ,1963-05-16,9th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4783
 5854,Karolina Leaković,"Leaković, Karolina",http://www.sabor.hr/lgs.axd?t=16&id=40160,SDP,1977-09-16,1st,7,2014-07-11,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5854
@@ -121,6 +135,7 @@ id,name,sortname,image,party,birth_date,constituency,term,start_date,end_date,so
 4943,Ivan Šantek,"Šantek, Ivan",http://www.sabor.hr/lgs.axd?t=16&id=19631,HDZ,1960-10-20,6th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4943
 4947,Željko Šemper,"Šemper, Željko",http://www.sabor.hr/lgs.axd?t=16&id=19818,HSU,1944-01-17,2nd,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4947
 4949,Tatjana Šimac-Bonačić,"Šimac Bonačić, Tatjana",http://www.sabor.hr/lgs.axd?t=16&id=19634,SDP,1957-09-29,10th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4949
+5658,Ivan Šimunović,"Šimunović, Ivan",http://www.sabor.hr/lgs.axd?t=16&id=24980,HSP dr. Ante Starčević,"",10th,7,2013-07-01,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5658
 4873,Vesna Škare Ožbolt,"Škare Ožbolt, Vesna",http://www.sabor.hr/lgs.axd?t=16&id=26860,DC,1961-06-20,6th,7,2014-02-18,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4873
 5357,Marijan Škvarić,"Škvarić, Marijan",http://www.sabor.hr/lgs.axd?t=16&id=20447,HNS,1962-12-11,3rd,7,2012-03-08,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5357
 4852,Dunja Špoljar,"Špoljar, Dunja",http://www.sabor.hr/lgs.axd?t=16&id=19638,SDP,1966-08-31,3rd,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=4852
@@ -137,6 +152,7 @@ id,name,sortname,image,party,birth_date,constituency,term,start_date,end_date,so
 5124,Nikola Vuljanić,"Vuljanić, Nikola",http://www.sabor.hr/lgs.axd?t=16&id=19661,Independent,1949-06-25,7th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5124
 5126,Dragica Zgrebec,"Zgrebec, Dragica",http://www.sabor.hr/lgs.axd?t=16&id=19659,SDP,1950-06-24,2nd,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5126
 5130,Tomislav Žagar,"Žagar, Tomislav",http://www.sabor.hr/lgs.axd?t=16&id=19658,SDP,1969-12-10,4th,7,2011-12-22,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5130
+5358,Vesna Želježnjak,"Želježnjak, Vesna",http://www.sabor.hr/lgs.axd?t=16&id=19823,SDP,1958-01-10,2nd,7,2012-01-18,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5358
 5076,Lidija Bagarić,"Bagarić, Lidija",http://www.sabor.hr/lgs.axd?t=16&id=19526,SDP,1976-07-27,8th,7,2011-12-23,2014-06-19,http://www.sabor.hr/lgs.axd?t=24&id=5076
 5078,Damir Bajs,"Bajs, Damir","",HSS,1964-10-07,2nd,7,2011-12-23,2012-09-26,http://www.sabor.hr/lgs.axd?t=24&id=5078
 5080,Josip Benčić,"Benčić, Josip",http://www.sabor.hr/lgs.axd?t=16&id=19532,SDP,1961-06-28,7th,7,2011-12-23,2014-05-15,http://www.sabor.hr/lgs.axd?t=24&id=5080
@@ -163,19 +179,3 @@ id,name,sortname,image,party,birth_date,constituency,term,start_date,end_date,so
 4836,Jozo Radoš,"Radoš, Jozo",http://www.sabor.hr/lgs.axd?t=16&id=19624,HNS,1956-11-03,9th,7,2011-12-22,2014-07-01,http://www.sabor.hr/lgs.axd?t=24&id=4836
 5843,Vesna Sabolić,Vesna Sabolić,http://www.sabor.hr/lgs.axd?t=16&id=40028,Reformisti,1958-03-21,9th,7,2014-07-01,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5843
 4842,Ivanka Roksandić,"Roksandić, Ivanka",http://www.sabor.hr/lgs.axd?t=16&id=19627,HDZ,1954-06-12,6th,7,2011-12-22,2014-02-18,http://www.sabor.hr/lgs.axd?t=24&id=4842
-4875,Željko Sabo,"Sabo, Željko",http://www.sabor.hr/lgs.axd?t=16&id=19629,SDP,1954-04-21,5th,7,2011-12-22,2015-03-20,http://www.sabor.hr/lgs.axd?t=24&id=4875
-5955,Josip Krnić,Josip Krnić,http://www.sabor.hr/lgs.axd?t=16&id=42142,SDP,1969-03-19,5th,7,2015-03-20,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5955
-4939,Davor Ivo Stier,"Stier, Davor Ivo",http://www.sabor.hr/lgs.axd?t=16&id=19643,HDZ,1972-01-06,7th,7,2011-12-22,2014-07-01,http://www.sabor.hr/lgs.axd?t=24&id=4939
-5650,Tomislav Klarić,Tomislav Klarić,http://www.sabor.hr/lgs.axd?t=16&id=24981,HDZ,1964-03-31,7th,7,2013-07-01,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5650
-4945,Vladimir Šeks,"Šeks, Vladimir",http://www.sabor.hr/lgs.axd?t=16&id=19633,HDZ,1943-01-01,4th,7,2011-12-22,2015-05-08,http://www.sabor.hr/lgs.axd?t=24&id=4945
-5971,Tugomir Kuduz,Tugomir Kuduz,http://www.sabor.hr/lgs.axd?t=16&id=42606,HDZ,1956-04-14,4th,7,2015-05-08,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5971
-5065,Dan Špicer,"Špicer, Dan",http://www.sabor.hr/lgs.axd?t=16&id=19637,SDP,1977-11-30,6th,7,2011-12-23,2012-06-19,http://www.sabor.hr/lgs.axd?t=24&id=5065
-4953,Boris Šprem,"Šprem, Boris",http://www.sabor.hr/lgs.axd?t=16&id=19640,SDP,1956-04-14,2nd,7,2011-12-22,2012-09-30,http://www.sabor.hr/lgs.axd?t=24&id=4953
-5358,Vesna Želježnjak,Vesna Želježnjak,http://www.sabor.hr/lgs.axd?t=16&id=19823,SDP,1958-01-10,2nd,7,2012-01-18,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5358
-4959,Ruža Tomašić,"Tomašić, Ruža",http://www.sabor.hr/lgs.axd?t=16&id=19647,HSP dr. Ante Starčević,1958-05-10,10th,7,2011-12-22,2014-07-01,http://www.sabor.hr/lgs.axd?t=24&id=4959
-5658,Ivan Šimunović,Ivan Šimunović,http://www.sabor.hr/lgs.axd?t=16&id=24980,HSP dr. Ante Starčević,"",10th,7,2013-07-01,2015-12-28,http://www.sabor.hr/lgs.axd?t=24&id=5658
-4861,Zoran Vasić,"Vasić, Zoran",http://www.sabor.hr/lgs.axd?t=16&id=19820,SDP,1976-04-09,6th,7,2011-12-22,2014-09-11,http://www.sabor.hr/lgs.axd?t=24&id=4861
-4846,Zoran Vinković,"Vinković, Zoran",http://www.sabor.hr/lgs.axd?t=16&id=19653,HDSSB,1966-01-30,4th,7,2011-12-22,2013-09-11,http://www.sabor.hr/lgs.axd?t=24&id=4846
-5116,Branko Vukelić,"Vukelić, Branko",http://www.sabor.hr/lgs.axd?t=16&id=19821,HDZ,1958-03-09,7th,7,2011-12-22,2013-05-03,http://www.sabor.hr/lgs.axd?t=24&id=5116
-5359,Marija Vukobratović,"Vukobratović, Marija",http://www.sabor.hr/lgs.axd?t=16&id=19822,SDP,1958-09-18,2nd,7,2012-01-18,2013-07-19,http://www.sabor.hr/lgs.axd?t=24&id=5359
-5652,Marijana Živko,"Živko, Marijana",http://www.sabor.hr/lgs.axd?t=16&id=24987,SDP,1975-06-19,4th,7,2013-07-05,2014-05-16,http://www.sabor.hr/lgs.axd?t=24&id=5652
