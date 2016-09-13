@@ -30,6 +30,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/04crl2d",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10734",
           "scheme": "openaustralia"
         },
@@ -2083,6 +2087,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0275fpk",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "0000 0001 1496 4503",
           "scheme": "isni"
         },
@@ -2194,6 +2202,10 @@
         {
           "identifier": "10786",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03gtfwb",
+          "scheme": "freebase"
         },
         {
           "identifier": "10786",
@@ -2861,6 +2873,10 @@
           "scheme": "fast"
         },
         {
+          "identifier": "/m/033n7x",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10727",
           "scheme": "openaustralia"
         },
@@ -3244,6 +3260,10 @@
         {
           "identifier": "10080",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02py_r",
+          "scheme": "freebase"
         },
         {
           "identifier": "10080",
@@ -4991,6 +5011,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/07630d",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10580",
           "scheme": "openaustralia"
         },
@@ -5178,6 +5202,10 @@
         {
           "identifier": "10026",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02pz68",
+          "scheme": "freebase"
         },
         {
           "identifier": "10026",
@@ -6202,6 +6230,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/042dkp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10788",
           "scheme": "openaustralia"
         },
@@ -6722,6 +6754,10 @@
         {
           "identifier": "10041",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02pz6z",
+          "scheme": "freebase"
         },
         {
           "identifier": "10041",
@@ -8431,6 +8467,10 @@
         {
           "identifier": "10815",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/047llsh",
+          "scheme": "freebase"
         },
         {
           "identifier": "10815",
@@ -11299,6 +11339,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0x0dvnq",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10801",
           "scheme": "openaustralia"
         },
@@ -11908,6 +11952,10 @@
         {
           "identifier": "10337",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/044_fm",
+          "scheme": "freebase"
         },
         {
           "identifier": "10337",
@@ -13742,6 +13790,10 @@
         {
           "identifier": "10738",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0crdjkv",
+          "scheme": "freebase"
         },
         {
           "identifier": "10738",
@@ -15660,6 +15712,10 @@
         {
           "identifier": "10319",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02qzkc",
+          "scheme": "freebase"
         },
         {
           "identifier": "10319",
@@ -18934,6 +18990,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02qnk1",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10242",
           "scheme": "openaustralia"
         },
@@ -18950,6 +19010,14 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/JoGash"
+        },
+        {
+          "note": "website",
+          "url": "http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p"
+        },
+        {
+          "note": "website",
+          "url": "query%3DId%3A%22handbook%2Fallmps%2FAK6%22"
         },
         {
           "note": "wikipedia",
@@ -19021,6 +19089,10 @@
         {
           "identifier": "10799",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0x13hm2",
+          "scheme": "freebase"
         },
         {
           "identifier": "10799",
@@ -22475,6 +22547,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0c4_gg",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1476247",
           "scheme": "nlatrove"
         },
@@ -24154,6 +24230,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03d7qjx",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10136",
           "scheme": "openaustralia"
         },
@@ -25270,6 +25350,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/09gnwtf",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10724",
           "scheme": "openaustralia"
         },
@@ -25543,6 +25627,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02y2k6",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10633",
           "scheme": "openaustralia"
         },
@@ -25630,6 +25718,10 @@
         {
           "identifier": "10730",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0crj7k4",
+          "scheme": "freebase"
         },
         {
           "identifier": "10730",
@@ -34114,6 +34206,10 @@
         {
           "identifier": "10736",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0crhmsx",
+          "scheme": "freebase"
         },
         {
           "identifier": "10736",
@@ -42713,6 +42809,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/05j0c4",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10043",
           "scheme": "openaustralia"
         },
@@ -45201,6 +45301,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02tcpq",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10513",
           "scheme": "openaustralia"
         },
@@ -45555,6 +45659,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0_qlbg5",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10825",
           "scheme": "openaustralia"
         },
@@ -45888,6 +45996,10 @@
         {
           "identifier": "10794",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0xp3cdt",
+          "scheme": "freebase"
         },
         {
           "identifier": "10794",
