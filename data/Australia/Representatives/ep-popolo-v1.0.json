@@ -13079,6 +13079,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0x11hb1",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10802",
           "scheme": "openaustralia"
         },
@@ -28980,6 +28984,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03gtffl",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10588",
           "scheme": "openaustralia"
         },
@@ -32068,6 +32076,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02q5ych",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10506",
           "scheme": "openaustralia"
         },
@@ -32154,6 +32166,10 @@
         {
           "identifier": "10818",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0y5368z",
+          "scheme": "freebase"
         },
         {
           "identifier": "10818",
@@ -34381,6 +34397,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/02qq1ct",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10718",
           "scheme": "openaustralia"
         },
@@ -35098,6 +35118,10 @@
         {
           "identifier": "10416",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03gtfg8",
+          "scheme": "freebase"
         },
         {
           "identifier": "10416",
@@ -37138,6 +37162,10 @@
         {
           "identifier": "10188",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02q0d7",
+          "scheme": "freebase"
         },
         {
           "identifier": "10188",
@@ -39719,6 +39747,10 @@
         {
           "identifier": "10816",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/0x2hsjm",
+          "scheme": "freebase"
         },
         {
           "identifier": "10816",
@@ -42513,6 +42545,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0czcsy8",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10752",
           "scheme": "openaustralia"
         },
@@ -42590,6 +42626,7 @@
       ]
     },
     {
+      "birth_date": "1968-05-13",
       "contact_details": [
         {
           "type": "email",
@@ -42615,17 +42652,44 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/03d67gq",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "10468",
           "scheme": "openaustralia"
+        },
+        {
+          "identifier": "Q7436908",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E3L/upload_ref_binary/E3L.jpg",
       "images": [
         {
           "url": "http://parlinfo.aph.gov.au/parlInfo/download/handbook/allmps/E3L/upload_ref_binary/E3L.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Scott_Morrison.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Scott_Morrison"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Scott_Morrison_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Scott_Morrison"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/斯科特·莫里森"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/Scott-Morrison-101546263223119"
@@ -42644,6 +42708,53 @@
         }
       ],
       "name": "Scott Morrison",
+      "other_names": [
+        {
+          "lang": "de",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Scott Morrison",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "斯科特·莫里森",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Morrison, Scott",
       "sources": [
         {
@@ -43754,6 +43865,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0crhy3d",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "1476556",
           "scheme": "nlatrove"
         },
@@ -44406,6 +44521,10 @@
         {
           "identifier": "10326",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/03gtffy",
+          "scheme": "freebase"
         },
         {
           "identifier": "10326",
@@ -47887,6 +48006,10 @@
         {
           "identifier": "10599",
           "scheme": "everypolitician_legacy"
+        },
+        {
+          "identifier": "/m/02vz31",
+          "scheme": "freebase"
         },
         {
           "identifier": "0000 0000 6379 489X",
