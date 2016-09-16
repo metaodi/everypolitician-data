@@ -5402,10 +5402,6 @@
           "value": "antonio.hernando@congreso.es"
         },
         {
-          "type": "email",
-          "value": "ahernando@psoe.es"
-        },
-        {
           "type": "twitter",
           "value": "AHernandoVera"
         }
@@ -5674,6 +5670,10 @@
       ],
       "name": "Antonio Pablo González Terol",
       "other_names": [
+        {
+          "name": "Antonio González Terol",
+          "note": "alternate"
+        },
         {
           "name": "Antonio González Terol",
           "note": "alternate"
@@ -6713,10 +6713,6 @@
           "value": "carles.campuzano@gmail.com"
         },
         {
-          "type": "email",
-          "value": "carles.campuzano@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "carlescampuzano"
         }
@@ -7696,7 +7692,7 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/53_11.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/737240910996639744/jfEkzl69.jpg"
+          "url": "https://pbs.twimg.com/profile_images/776436699987574784/qB1TyARF.jpg"
         }
       ],
       "links": [
@@ -7756,15 +7752,10 @@
       "birth_date": "1971-03-13",
       "contact_details": [
         {
-          "type": "email",
-          "value": "carme.chacon@congreso.es"
-        },
-        {
           "type": "twitter",
           "value": "carmechacon"
         }
       ],
-      "email": "carme.chacon@congreso.es",
       "family_name": "Chacón Piqueras",
       "gender": "female",
       "given_name": "Carme",
@@ -10584,7 +10575,7 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/142_11.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/749965733292040193/vz-0uVoT.jpg"
+          "url": "https://pbs.twimg.com/profile_images/775950004804464640/MbKcPOaW.jpg"
         }
       ],
       "links": [
@@ -11092,6 +11083,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Eduardo_Fernández_García"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Eduardo_Fernández_García"
         }
       ],
       "name": "Eduardo Fernández",
@@ -11910,10 +11905,6 @@
         {
           "type": "email",
           "value": "emilio.delrio@congreso.es correo@emiliodelrio.es"
-        },
-        {
-          "type": "email",
-          "value": "correo@emiliodelrio.es"
         },
         {
           "type": "twitter",
@@ -15590,7 +15581,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Gabriel_Rufián_2015_(cropped).jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/753696852965462016/xMCESh7K.jpg"
+          "url": "https://pbs.twimg.com/profile_images/776526892514025472/fJ0HbHwq.jpg"
         }
       ],
       "links": [
@@ -16933,7 +16924,7 @@
         },
         {
           "note": "facebook",
-          "url": "https://facebook.com/hcamposarteseros"
+          "url": "https://facebook.com/diputadosysenadoresdelpspvpsoe"
         },
         {
           "note": "twitter",
@@ -17495,6 +17486,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Ignacio_Urquizu"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Ignacio_Urquizu_Sancho"
         },
         {
           "note": "twitter",
@@ -21014,6 +21009,10 @@
           "url": "https://es.wikipedia.org/wiki/Joaquín_García_Díez"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Joaquín_María_García_Díez"
+        },
+        {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Joaquín_García_Díez"
         },
@@ -21711,7 +21710,7 @@
       ]
     },
     {
-      "birth_date": "1965",
+      "birth_date": "1965-06-21",
       "family_name": "Moragas Sánchez",
       "gender": "male",
       "given_name": "Jorge",
@@ -21744,6 +21743,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Jorge_Moragas"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jorge_Moragas_Sánchez"
         }
       ],
       "name": "Jorge Moragas",
@@ -22179,10 +22182,6 @@
         {
           "type": "email",
           "value": "josep.vendrell@congreso.es jvendrell@iniciativa.cat"
-        },
-        {
-          "type": "email",
-          "value": "jvendrell@iniciativa.cat"
         },
         {
           "type": "twitter",
@@ -23187,7 +23186,7 @@
           "url": "http://www.congreso.es/wc/htdocs/web/img/diputados/188_11.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/755530662107553792/daORp0rW.jpg"
+          "url": "https://pbs.twimg.com/profile_images/775523971693412352/jrRqFJ0h.jpg"
         }
       ],
       "links": [
@@ -23778,6 +23777,10 @@
       "id": "0163d628-f8e4-4659-be2e-22d957d4985c",
       "identifiers": [
         {
+          "identifier": "/m/0j7jfgj",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5992409",
           "scheme": "wikidata"
         }
@@ -24031,6 +24034,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/José_Juan_Díaz_Trillo"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/José_Juan_Díaz_Trillo"
         }
       ],
       "name": "José Juan Díaz Trillo",
@@ -24277,6 +24284,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/José_Luis_Ayllón"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/José_Luis_Ayllón_Manso"
         },
         {
           "note": "facebook",
@@ -31538,7 +31549,7 @@
         },
         {
           "note": "Wikipedia (az)",
-          "url": "https://az.wikipedia.org/wiki/Mariano_Rahoy"
+          "url": "https://az.wikipedia.org/wiki/Mariano_Rajoy"
         },
         {
           "note": "Wikipedia (bcl)",
@@ -32517,7 +32528,7 @@
         },
         {
           "type": "twitter",
-          "value": "martaglezvzqz"
+          "value": "MartaGlezVzqz"
         }
       ],
       "email": "marta.gonzalez@congreso.es",
@@ -32540,7 +32551,7 @@
       "links": [
         {
           "note": "twitter",
-          "url": "https://twitter.com/martaglezvzqz"
+          "url": "https://twitter.com/MartaGlezVzqz"
         }
       ],
       "name": "Marta González",
@@ -38564,10 +38575,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://pbs.twimg.com/profile_images/747815346132881408/QxTBZi4M.jpg",
+      "image": "https://pbs.twimg.com/profile_images/776314953678684160/ffRlivFm.jpg",
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/747815346132881408/QxTBZi4M.jpg"
+          "url": "https://pbs.twimg.com/profile_images/776314953678684160/ffRlivFm.jpg"
         }
       ],
       "links": [
@@ -39434,6 +39445,10 @@
           "url": "https://es.wikipedia.org/wiki/Miguel_Barrachina"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Miguel_Barrachina_Ros"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/miguel.barrachina.ros"
         },
@@ -39860,10 +39875,6 @@
         {
           "type": "email",
           "value": "miguel.gutierrez@congreso.es delegadocs.madrid@ciudadanos-cs.org"
-        },
-        {
-          "type": "email",
-          "value": "delegadocs.madrid@ciudadanos-cs.org"
         },
         {
           "type": "twitter",
@@ -42809,6 +42820,10 @@
           "url": "https://eswikiquote.wikipedia.org/wiki/Pedro_Arrojo_Agudo"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pedro_Arrojo_Agudo"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/100010654239553"
         },
@@ -44022,6 +44037,10 @@
         {
           "note": "Wikipedia (es)",
           "url": "https://es.wikipedia.org/wiki/Pilar_Rojo_Noguera"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Pilar_Milagros_Rojo_Noguera"
         },
         {
           "note": "Wikipedia (gl)",
@@ -45820,6 +45839,10 @@
           "url": "https://es.wikipedia.org/wiki/Rodrigo_Gómez_García"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rodrigo_Gómez_García"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/Rodrigo-Gómez-García-1418396158453116"
         },
@@ -45832,6 +45855,11 @@
       "other_names": [
         {
           "lang": "es",
+          "name": "Rodrigo Gómez García",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
           "name": "Rodrigo Gómez García",
           "note": "multilingual"
         },
@@ -46617,7 +46645,7 @@
           "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Rosa_Romero_2015.jpg"
         },
         {
-          "url": "https://pbs.twimg.com/profile_images/712747865911795713/9__kKBIG.jpg"
+          "url": "https://pbs.twimg.com/profile_images/776425470707499008/-xw1wJTA.jpg"
         }
       ],
       "links": [
@@ -51029,10 +51057,6 @@
         {
           "type": "email",
           "value": "yolanda.diaz@congreso.es ydiazperez@gmail.com"
-        },
-        {
-          "type": "email",
-          "value": "ydiazperez@gmail.com"
         },
         {
           "type": "twitter",
