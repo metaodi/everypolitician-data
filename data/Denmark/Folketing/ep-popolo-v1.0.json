@@ -213,36 +213,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aaja.larsen@ft.dk"
-        }
-      ],
-      "email": "aaja.larsen@ft.dk",
-      "family_name": "Larsen",
-      "given_name": "Aaja Chemnitz",
-      "id": "41e9aea1-c577-4f64-9cd5-02ab9a135e34",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aaja%20Chemnitz%20Larsen/Aaja_Chemnitz_Larsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aaja%20Chemnitz%20Larsen/Aaja_Chemnitz_Larsen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.facebook.com/aaja2014"
-        }
-      ],
-      "name": "Aaja Chemnitz Larsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/inaacl.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1936-07-25",
       "gender": "female",
       "given_name": "Aase",
@@ -601,30 +571,6 @@
           "note": "multilingual"
         }
       ],
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/aleqa-hammond.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "aleqa.hammond@ft.dk"
-        }
-      ],
-      "email": "aleqa.hammond@ft.dk",
-      "family_name": "Hammond",
-      "given_name": "Aleqa",
-      "id": "753f146f-a4d4-4013-804c-f1933af46d7b",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aleqa%20Hammond/Aleqa_Hammond_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/NA/Aleqa%20Hammond/Aleqa_Hammond_133.jpg.ashx"
-        }
-      ],
-      "name": "Aleqa Hammond",
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/smalha.aspx"
@@ -4907,10 +4853,6 @@
           "url": "https://da.wikipedia.org/wiki/Bertel_Haarder"
         },
         {
-          "note": "Wikipedia (dawikiquote)",
-          "url": "https://dawikiquote.wikipedia.org/wiki/Bertel_Haarder"
-        },
-        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bertel_Haarder"
         },
@@ -4945,10 +4887,6 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/BHaarder"
-        },
-        {
-          "note": "website",
-          "url": "http://bertelhaarder.dk/"
         }
       ],
       "name": "Bertel Haarder",
@@ -6090,36 +6028,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "britt.bager@ft.dk"
-        }
-      ],
-      "email": "britt.bager@ft.dk",
-      "family_name": "Bager",
-      "given_name": "Britt",
-      "id": "e4349ac1-4021-4c35-8c68-2ff4ed0ee70b",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Britt%20Bager/Britt_Bager_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Britt%20Bager/Britt_Bager_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.brittbager.dk"
-        }
-      ],
-      "name": "Britt Bager",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/vbrba.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1976-08-16",
       "contact_details": [
         {
@@ -6764,60 +6672,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carl.holst@ft.dk"
-        }
-      ],
-      "email": "carl.holst@ft.dk",
-      "family_name": "Holst",
-      "given_name": "Carl",
-      "id": "abbaf007-cf92-4716-abaf-87b6eaa00869",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Carl%20Holst/Carl_Holst_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Carl%20Holst/Carl_Holst_133.jpg.ashx"
-        }
-      ],
-      "name": "Carl Holst",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/vcaho.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carolina.maier@ft.dk"
-        }
-      ],
-      "email": "carolina.maier@ft.dk",
-      "family_name": "Maier",
-      "given_name": "Carolina Magdalene",
-      "id": "8369bc0c-5fe4-4af9-b2c3-063dc857bdd4",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Carolina%20Magdalene%20Maier/Carolina_Magdalene_Maier_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Carolina%20Magdalene%20Maier/Carolina_Magdalene_Maier_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.carolinamagdalene.dk"
-        }
-      ],
-      "name": "Carolina Magdalene Maier",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altcmma.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1973-11-28",
       "contact_details": [
         {
@@ -6917,30 +6771,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/carolina-magdalene-maier.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "carsten.bach@ft.dk"
-        }
-      ],
-      "email": "carsten.bach@ft.dk",
-      "family_name": "Bach",
-      "given_name": "Carsten",
-      "id": "3fef3582-a7a8-4152-b2f9-4da8b7682f38",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Carsten%20Bach/Carsten_Bach_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Carsten%20Bach/Carsten_Bach_133.jpg.ashx"
-        }
-      ],
-      "name": "Carsten Bach",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/lacaba.aspx"
         }
       ]
     },
@@ -8118,66 +7948,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christian.poll@ft.dk"
-        }
-      ],
-      "email": "christian.poll@ft.dk",
-      "family_name": "Poll",
-      "given_name": "Christian",
-      "id": "7fab9435-41b8-4548-816e-44f1b36ab961",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Christian%20Poll/Christian_Poll_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Christian%20Poll/Christian_Poll_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "https://www.facebook.com/christianpollalternativet"
-        }
-      ],
-      "name": "Christian Poll",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altchpo.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christian.rabjerg.madsen@ft.dk"
-        }
-      ],
-      "email": "christian.rabjerg.madsen@ft.dk",
-      "family_name": "Madsen",
-      "given_name": "Christian Rabjerg",
-      "id": "6668a9ca-3300-4fbe-b183-865562dd472b",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Christian%20Rabjerg%20Madsen/Christian_Rabjerg_Madsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Christian%20Rabjerg%20Madsen/Christian_Rabjerg_Madsen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.facebook.com/christian.rabjerg"
-        }
-      ],
-      "name": "Christian Rabjerg Madsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/schrm.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1986-03-24",
       "contact_details": [
         {
@@ -8337,30 +8107,6 @@
           "lang": "fr",
           "name": "Christian Wedell-Neergaard",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "christina.egelund@ft.dk"
-        }
-      ],
-      "email": "christina.egelund@ft.dk",
-      "family_name": "Egelund",
-      "given_name": "Christina",
-      "id": "0c399929-8ffa-4434-884e-8ebc27f8035c",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Christina%20Egelund/Christina_Egelund_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Christina%20Egelund/Christina_Egelund_133.jpg.ashx"
-        }
-      ],
-      "name": "Christina Egelund",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/lacheg.aspx"
         }
       ]
     },
@@ -8910,36 +8656,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/claus-kvist-hansen.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "claus.kvist.hansen@ft.dk"
-        }
-      ],
-      "email": "claus.kvist.hansen@ft.dk",
-      "family_name": "Hansen",
-      "given_name": "Claus Kvist",
-      "id": "ee23a248-ea66-4798-9ddf-a1c382e63820",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Claus%20Kvist%20Hansen/Claus_Kvist_Hansen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Claus%20Kvist%20Hansen/Claus_Kvist_Hansen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.clauskvist.dk"
-        }
-      ],
-      "name": "Claus Kvist Hansen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfckha.aspx"
         }
       ]
     },
@@ -9968,30 +9684,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "dorthe.ullemose@ft.dk"
-        }
-      ],
-      "email": "dorthe.ullemose@ft.dk",
-      "family_name": "Ullemose",
-      "given_name": "Dorthe",
-      "id": "3dc207e6-9427-49fc-bed7-7dced66b337d",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Dorthe%20Ullemose/Dorthe_Ullemose_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Dorthe%20Ullemose/Dorthe_Ullemose_133.jpg.ashx"
-        }
-      ],
-      "name": "Dorthe Ullemose",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfdoul.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1929-04-15",
       "death_date": "2012-12-03",
       "gender": "female",
@@ -10987,30 +10679,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "erik.christensen@ft.dk"
-        }
-      ],
-      "email": "erik.christensen@ft.dk",
-      "family_name": "Christensen",
-      "given_name": "Erik",
-      "id": "8d9f4480-0378-4dbf-b597-7de20d51baab",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Erik%20Christensen/Erik_Christensen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Erik%20Christensen/Erik_Christensen_133.jpg.ashx"
-        }
-      ],
-      "name": "Erik Christensen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/serch.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1940-07-27",
       "gender": "male",
       "given_name": "Erik",
@@ -11687,36 +11355,6 @@
     {
       "id": "1999f15a-d488-42ac-9525-c4b049e7929c",
       "name": "Eva Fatum"
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "eva.flyvholm@ft.dk"
-        }
-      ],
-      "email": "eva.flyvholm@ft.dk",
-      "family_name": "Flyvholm",
-      "given_name": "Eva",
-      "id": "c091d0b6-437f-4905-afd4-1112c32e52d6",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Eva%20Flyvholm/Eva_Flyvholm_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Eva%20Flyvholm/Eva_Flyvholm_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.evaflyvholm.dk"
-        }
-      ],
-      "name": "Eva Flyvholm",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elevfl.aspx"
-        }
-      ]
     },
     {
       "birth_date": "1981-04-18",
@@ -13761,10 +13399,6 @@
           "url": "https://sv.wikipedia.org/wiki/Gitte_Seeberg"
         },
         {
-          "note": "blog",
-          "url": "http://jyllands-posten.dk/debat/blogs/gitteseeberg/"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/Gitte_Seeberg"
         }
@@ -13792,11 +13426,6 @@
           "note": "multilingual"
         },
         {
-          "lang": "fo",
-          "name": "Gitte Seeberg",
-          "note": "multilingual"
-        },
-        {
           "lang": "fr",
           "name": "Gitte Seeberg",
           "note": "multilingual"
@@ -13807,27 +13436,12 @@
           "note": "multilingual"
         },
         {
-          "lang": "is",
-          "name": "Gitte Seeberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "kl",
-          "name": "Gitte Seeberg",
-          "note": "multilingual"
-        },
-        {
           "lang": "nb",
           "name": "Gitte Seeberg",
           "note": "multilingual"
         },
         {
           "lang": "nl",
-          "name": "Gitte Seeberg",
-          "note": "multilingual"
-        },
-        {
-          "lang": "nn",
           "name": "Gitte Seeberg",
           "note": "multilingual"
         },
@@ -16950,36 +16564,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "henrik.dahl@ft.dk"
-        }
-      ],
-      "email": "henrik.dahl@ft.dk",
-      "family_name": "Dahl",
-      "given_name": "Henrik",
-      "id": "dcb69b7c-88e9-4b19-b048-d86c74539c61",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Henrik%20Dahl/Henrik_Dahl_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/Henrik%20Dahl/Henrik_Dahl_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "https://da-dk.facebook.com/henrikdahlla"
-        }
-      ],
-      "name": "Henrik Dahl",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/laheda.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1957-01-31",
       "contact_details": [
         {
@@ -17297,10 +16881,6 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Henrik_Sass_Larsen"
-        },
-        {
-          "note": "blog",
-          "url": "http://ekstrabladet.dk/opinionen/henrik-sass-larsen/"
         },
         {
           "note": "twitter",
@@ -19315,36 +18895,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jacob.mark@ft.dk"
-        }
-      ],
-      "email": "jacob.mark@ft.dk",
-      "family_name": "Mark",
-      "given_name": "Jacob",
-      "id": "50de99e5-ae6f-4653-8af4-aff0973ba742",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Jacob%20Mark/Jacob_Mark_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Jacob%20Mark/Jacob_Mark_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.stemjacobmark.dk"
-        }
-      ],
-      "name": "Jacob Mark",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/sfjama.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1991-10-16",
       "contact_details": [
         {
@@ -19921,36 +19471,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jakob.solvhoj@ft.dk"
-        }
-      ],
-      "email": "jakob.solvhoj@ft.dk",
-      "family_name": "Sølvhøj",
-      "given_name": "Jakob",
-      "id": "fb3e33a2-3f9b-407b-9d28-212bcca9cf6a",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Jakob%20Solvhoj/Jakob_Solvhoj_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Jakob%20Solvhoj/Jakob_Solvhoj_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://jakobsolvhoj.dk"
-        }
-      ],
-      "name": "Jakob Sølvhøj",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/eljaks.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1965-02-19",
       "contact_details": [
         {
@@ -20157,30 +19677,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/jan-erik-messmann.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jan.messmann@ft.dk"
-        }
-      ],
-      "email": "jan.messmann@ft.dk",
-      "family_name": "Messmann",
-      "given_name": "Jan Erik",
-      "id": "fb149496-528e-42fa-acd1-68b538cd7223",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan-Erik%20Messmann/Jan-Erik_Messmann_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan-Erik%20Messmann/Jan-Erik_Messmann_133.jpg.ashx"
-        }
-      ],
-      "name": "Jan Erik Messmann",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfjeme.aspx"
         }
       ]
     },
@@ -20478,30 +19974,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/jan-rytkjaer-callesen.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jan.callesen@ft.dk"
-        }
-      ],
-      "email": "jan.callesen@ft.dk",
-      "family_name": "Callesen",
-      "given_name": "Jan Rytkjær",
-      "id": "fd5d0765-7251-4a48-875b-5e068e77c42f",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan%20Rytkjaer%20Callesen/Jan_Rytkjaer_Callesen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jan%20Rytkjaer%20Callesen/Jan_Rytkjaer_Callesen_133.jpg.ashx"
-        }
-      ],
-      "name": "Jan Rytkjær Callesen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfjarc.aspx"
         }
       ]
     },
@@ -21887,36 +21359,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "jeppe.jakobsen@ft.dk"
-        }
-      ],
-      "email": "jeppe.jakobsen@ft.dk",
-      "family_name": "Jakobsen",
-      "given_name": "Jeppe",
-      "id": "dea382a7-f56f-42a4-bb2a-f52bf89132e4",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jeppe%20Jakobsen/Jeppe_Jakobsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Jeppe%20Jakobsen/Jeppe_Jakobsen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.jeppe-jakobsen.dk"
-        }
-      ],
-      "name": "Jeppe Jakobsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfjeja.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1974-03-14",
       "contact_details": [
         {
@@ -22757,10 +22199,6 @@
           "url": "https://zh.wikipedia.org/wiki/约阿希姆·奥尔森"
         },
         {
-          "note": "blog",
-          "url": "http://ekstrabladet.dk/opinionen/joachim-b-olsen/"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/JoachimBOlsen"
         },
@@ -23452,10 +22890,6 @@
           "url": "https://da.wikipedia.org/wiki/Josephine_Fock"
         },
         {
-          "note": "blog",
-          "url": "http://jyllands-posten.dk/debat/blogs/josephinefock/"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/josephinefock"
         },
@@ -23525,36 +22959,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/josephine-fock.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "josephine.fock@ft.dk"
-        }
-      ],
-      "email": "josephine.fock@ft.dk",
-      "family_name": "Fock",
-      "given_name": "Josephine",
-      "id": "fa48b504-85e8-44ab-9935-e083eb279472",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Josephine%20Fock/Josephine_Fock_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Josephine%20Fock/Josephine_Fock_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.josephinefock.dk"
-        }
-      ],
-      "name": "Josephine Fock",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altjofo.aspx"
         }
       ]
     },
@@ -24394,10 +23798,6 @@
           "url": "https://da.wikipedia.org/wiki/Kaare_Dybvad"
         },
         {
-          "note": "blog",
-          "url": "http://ekstrabladet.dk/opinionen/kaaredybvad/"
-        },
-        {
           "note": "facebook",
           "url": "https://facebook.com/kaaredybvad"
         },
@@ -24475,36 +23875,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/kaare-dybvad.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kaare.dybvad@ft.dk"
-        }
-      ],
-      "email": "kaare.dybvad@ft.dk",
-      "family_name": "Dybvad",
-      "given_name": "Kaare",
-      "id": "d6ed6cc1-b107-4014-9ae6-99679aba40d4",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kaare%20Dybvad/Kaare_Dybvad_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Kaare%20Dybvad/Kaare_Dybvad_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.kaaredybvad.dk"
-        }
-      ],
-      "name": "Kaare Dybvad",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/skady.aspx"
         }
       ]
     },
@@ -25779,30 +25149,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/dfkaad.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "karina.due@ft.dk"
-        }
-      ],
-      "email": "karina.due@ft.dk",
-      "family_name": "Due",
-      "given_name": "Karina",
-      "id": "33b632f6-986f-4c57-b44c-cf2086ea306f",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Karina%20Due/Karina_Due_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Karina%20Due/Karina_Due_133.jpg.ashx"
-        }
-      ],
-      "name": "Karina Due",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfkadu.aspx"
         }
       ]
     },
@@ -27292,30 +26638,6 @@
       "name": "Kirsten Madsen"
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "kirsten.normann.andersen@ft.dk"
-        }
-      ],
-      "email": "kirsten.normann.andersen@ft.dk",
-      "family_name": "Andersen",
-      "given_name": "Kirsten Normann",
-      "id": "3ab89b46-f441-45d3-9bb5-df04185ec987",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/foto%20mangler_133x133.jpg.ashx"
-        }
-      ],
-      "name": "Kirsten Normann Andersen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/sfkina.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1962-04-28",
       "contact_details": [
         {
@@ -28797,36 +28119,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lars.aslan.rasmussen@ft.dk"
-        }
-      ],
-      "email": "lars.aslan.rasmussen@ft.dk",
-      "family_name": "Rasmussen",
-      "given_name": "Lars Aslan",
-      "id": "f4283bdd-56aa-4c03-a1a2-cc7cb06d801b",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lars%20Aslan%20Rasmussen/Lars_Aslan_Rasmussen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lars%20Aslan%20Rasmussen/Lars_Aslan_Rasmussen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.stemlars.dk"
-        }
-      ],
-      "name": "Lars Aslan Rasmussen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/slaar.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1957-07-04",
       "contact_details": [
         {
@@ -30288,36 +29580,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lea.wermelin@ft.dk"
-        }
-      ],
-      "email": "lea.wermelin@ft.dk",
-      "family_name": "Wermelin",
-      "given_name": "Lea",
-      "id": "1f82370f-6468-476d-b5c7-5210f08592e4",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lea%20Wermelin/Lea_Wermelin_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Lea%20Wermelin/Lea_Wermelin_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.leawermelin.dk"
-        }
-      ],
-      "name": "Lea Wermelin",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/slewe.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1985-05-10",
       "contact_details": [
         {
@@ -31678,36 +30940,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/lise-bech.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "lise.bech@ft.dk"
-        }
-      ],
-      "email": "lise.bech@ft.dk",
-      "family_name": "Bech",
-      "given_name": "Lise",
-      "id": "66702cce-05a7-420e-86c7-5122ea0da81d",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Lise%20Bech/Lise_Bech_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Lise%20Bech/Lise_Bech_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.lisebech.dk"
-        }
-      ],
-      "name": "Lise Bech",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dflibe.aspx"
         }
       ]
     },
@@ -33579,30 +32811,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "malte.larsen@ft.dk"
-        }
-      ],
-      "email": "malte.larsen@ft.dk",
-      "family_name": "Larsen",
-      "given_name": "Malte",
-      "id": "e7e3ba62-d248-4b1b-97bf-7d2a4e9d1794",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Malte%20Larsen/Malte_Larsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Malte%20Larsen/Malte_Larsen_133.jpg.ashx"
-        }
-      ],
-      "name": "Malte Larsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/smala.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1967-05-16",
       "contact_details": [
         {
@@ -33759,36 +32967,6 @@
           "lang": "sv",
           "name": "Manu Sareen",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "marcus.knuth@ft.dk"
-        }
-      ],
-      "email": "marcus.knuth@ft.dk",
-      "family_name": "Knuth",
-      "given_name": "Marcus",
-      "id": "2b31dd91-e18b-403d-a15d-73f34344bce3",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Marcus%20Knuth/Marcus_Knuth_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/V/Marcus%20Knuth/Marcus_Knuth_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.marcusknuth.dk"
-        }
-      ],
-      "name": "Marcus Knuth",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/vmakn.aspx"
         }
       ]
     },
@@ -34406,36 +33584,6 @@
           "lang": "zh",
           "name": "瑪格瑞特·維斯塔格",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "maria.gjerding@ft.dk"
-        }
-      ],
-      "email": "maria.gjerding@ft.dk",
-      "family_name": "Gjerding",
-      "given_name": "Maria Reumert",
-      "id": "2c7842fc-6847-4ed4-bb1f-3c6d1cf3d004",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Maria%20Reumert%20Gjerding/Maria_Reumert_Gjerding_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Maria%20Reumert%20Gjerding/Maria_Reumert_Gjerding_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://mariagjerding.dk"
-        }
-      ],
-      "name": "Maria Reumert Gjerding",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elmarg.aspx"
         }
       ]
     },
@@ -35672,36 +34820,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mattias.tesfaye@ft.dk"
-        }
-      ],
-      "email": "mattias.tesfaye@ft.dk",
-      "family_name": "Tesfaye",
-      "given_name": "Mattias",
-      "id": "42385e85-2a95-405c-889b-03453460ac9d",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mattias%20Tesfaye/Mattias_Tesfaye_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Mattias%20Tesfaye/Mattias_Tesfaye_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.tesfaye.dk"
-        }
-      ],
-      "name": "Mattias Tesfaye",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/smate.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1981-03-31",
       "contact_details": [
         {
@@ -35807,36 +34925,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/mattias-tesfaye.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "may-britt.kattrup@ft.dk"
-        }
-      ],
-      "email": "may-britt.kattrup@ft.dk",
-      "family_name": "Kattrup",
-      "given_name": "May-Britt",
-      "id": "67cce966-5d07-4e52-8b69-5756fa57fe1d",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/May-Britt%20Kattrup/May-Britt_Kattrup_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/LA/May-Britt%20Kattrup/May-Britt_Kattrup_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.kattrup.dk"
-        }
-      ],
-      "name": "May-Britt Kattrup",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/lamaka.aspx"
         }
       ]
     },
@@ -36217,36 +35305,6 @@
           "lang": "it",
           "name": "Meta Fuglsang",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "mette.abildgaard@ft.dk"
-        }
-      ],
-      "email": "mette.abildgaard@ft.dk",
-      "family_name": "Abildgaard",
-      "given_name": "Mette",
-      "id": "22fdf190-cad3-4daf-81c2-2b33032f9300",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Mette%20Abildgaard/Mette_Abildgaard_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Mette%20Abildgaard/Mette_Abildgaard_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.metteabildgaard.dk"
-        }
-      ],
-      "name": "Mette Abildgaard",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/kfmeab.aspx"
         }
       ]
     },
@@ -41372,30 +40430,6 @@
       ],
       "email": "peder.hvelplund@ft.dk",
       "family_name": "Hvelplund",
-      "given_name": "Peder",
-      "id": "0b8dbde8-f8b8-43ca-8511-84810000f2d2",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Peder%20Hvelplund/Peder_Hvelplund_133.jpg.ashx"
-        }
-      ],
-      "name": "Peder Hvelplund",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elpehv.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peder.hvelplund@ft.dk"
-        }
-      ],
-      "email": "peder.hvelplund@ft.dk",
-      "family_name": "Hvelplund",
       "gender": "male",
       "given_name": "Peder",
       "id": "9f8d1b0e-9eee-4223-9a67-abc9d88c633a",
@@ -41487,36 +40521,6 @@
           "lang": "fr",
           "name": "Peder Sønderby",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pelle.dragsted@ft.dk"
-        }
-      ],
-      "email": "pelle.dragsted@ft.dk",
-      "family_name": "Dragsted",
-      "given_name": "Pelle",
-      "id": "34fc561f-2623-470e-a7dc-bd21db2341e9",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Pelle%20Dragsted/Pelle_Dragsted_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Pelle%20Dragsted/Pelle_Dragsted_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.pelledragsted.dkhttp://politiken.dk/debat/profiler/pelledragsted"
-        }
-      ],
-      "name": "Pelle Dragsted",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elpedr.aspx"
         }
       ]
     },
@@ -42316,30 +41320,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pernille.bendixen@ft.dk"
-        }
-      ],
-      "email": "pernille.bendixen@ft.dk",
-      "family_name": "Bendixen",
-      "given_name": "Pernille",
-      "id": "d851bdcf-e704-4c52-ae98-d4dd0689dd6a",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Pernille%20Bendixen/Pernille_Bendixen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Pernille%20Bendixen/Pernille_Bendixen_133.jpg.ashx"
-        }
-      ],
-      "name": "Pernille Bendixen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfpebe.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1974-03-23",
       "gender": "female",
       "given_name": "Pernille",
@@ -42624,30 +41604,6 @@
           "lang": "it",
           "name": "Pernille Sams",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "pernille.schnoor@ft.dk"
-        }
-      ],
-      "email": "pernille.schnoor@ft.dk",
-      "family_name": "Schnoor",
-      "given_name": "Pernille",
-      "id": "2786c06e-f074-4a0f-85a8-407ddffe25f4",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Pernille%20Schnoor/Pernille_Schnoor_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Pernille%20Schnoor/Pernille_Schnoor_133.jpg.ashx"
-        }
-      ],
-      "name": "Pernille Schnoor",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altpesc.aspx"
         }
       ]
     },
@@ -43491,36 +42447,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peter.hummelgaard@ft.dk"
-        }
-      ],
-      "email": "peter.hummelgaard@ft.dk",
-      "family_name": "Thomsen",
-      "given_name": "Peter Hummelgaard",
-      "id": "7c37cb86-7c0d-4938-b06c-9ea8865ab1db",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Peter%20Hummelgaard%20Thomsen/Peter_Hummelgaard_Thomsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/S/Peter%20Hummelgaard%20Thomsen/Peter_Hummelgaard_Thomsen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://peterhummelgaard.dkhttp://politiken.dk/debat/profiler/hummelgaard/"
-        }
-      ],
-      "name": "Peter Hummelgaard Thomsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/speht.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1966-05-18",
       "contact_details": [
         {
@@ -43576,36 +42502,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/vpejj.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "peter.kofod.poulsen@ft.dk"
-        }
-      ],
-      "email": "peter.kofod.poulsen@ft.dk",
-      "family_name": "Poulsen",
-      "given_name": "Peter Kofod",
-      "id": "1cc06f77-2cb6-4e53-9754-835996573c42",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Peter%20Kofod%20Poulsen/Peter_Kofod_Poulsen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Peter%20Kofod%20Poulsen/Peter_Kofod_Poulsen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.facebook.com/peterifolketinget"
-        }
-      ],
-      "name": "Peter Kofod Poulsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfpekp.aspx"
         }
       ]
     },
@@ -44934,20 +43830,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/2016-08-29_BSPC_Riga_Poul_Nielson_by_Olaf_Kosinsky-13.jpg",
-      "images": [
-        {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/2016-08-29_BSPC_Riga_Poul_Nielson_by_Olaf_Kosinsky-13.jpg"
-        }
-      ],
       "links": [
         {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Poul_Nielson"
-        },
-        {
-          "note": "Wikipedia (commons)",
-          "url": "https://commons.wikipedia.org/wiki/Category:Poul_Nielson"
         },
         {
           "note": "Wikipedia (da)",
@@ -46424,36 +45310,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rasmus.nordqvist@ft.dk"
-        }
-      ],
-      "email": "rasmus.nordqvist@ft.dk",
-      "family_name": "Nordqvist",
-      "given_name": "Rasmus",
-      "id": "0b324958-6dd1-4c52-82cf-4f002e4041b5",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rasmus%20Nordqvist/Rasmus_Nordqvist_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rasmus%20Nordqvist/Rasmus_Nordqvist_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.facebook.com/rasmus.nordqvist"
-        }
-      ],
-      "name": "Rasmus Nordqvist",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altrano.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1975-07-18",
       "contact_details": [
         {
@@ -46862,36 +45718,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "rene.gade@ft.dk"
-        }
-      ],
-      "email": "rene.gade@ft.dk",
-      "family_name": "Gade",
-      "given_name": "René",
-      "id": "ac9dfa64-7de1-4d78-abdc-cd179c0dfb5c",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rene%20Gade/Rene_Gade_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Rene%20Gade/Rene_Gade_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.renegade.works"
-        }
-      ],
-      "name": "René Gade",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altrega.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1967-02-14",
       "gender": "male",
       "given_name": "René",
@@ -47219,36 +46045,6 @@
           "lang": "sv",
           "name": "Ritt Bjerregaard",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "roger.matthisen@ft.dk"
-        }
-      ],
-      "email": "roger.matthisen@ft.dk",
-      "family_name": "Matthisen",
-      "given_name": "Roger",
-      "id": "2721c278-712d-4569-aed3-778668c0adf9",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Roger%20Matthisen/Roger_Matthisen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Roger%20Matthisen/Roger_Matthisen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.rogermatthisen.dk"
-        }
-      ],
-      "name": "Roger Matthisen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altroma.aspx"
         }
       ]
     },
@@ -48815,30 +47611,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "susanne.eilersen@ft.dk"
-        }
-      ],
-      "email": "susanne.eilersen@ft.dk",
-      "family_name": "Eilersen",
-      "given_name": "Susanne",
-      "id": "4eafec1a-f17b-4c08-b2f4-d4027ce8c5f1",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Susanne%20Eilersen/Susanne_Eilersen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Susanne%20Eilersen/Susanne_Eilersen_133.jpg.ashx"
-        }
-      ],
-      "name": "Susanne Eilersen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dfsuei.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1964-08-24",
       "contact_details": [
         {
@@ -49556,36 +48328,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "soren.egge.rasmussen@ft.dk"
-        }
-      ],
-      "email": "soren.egge.rasmussen@ft.dk",
-      "family_name": "Rasmussen",
-      "given_name": "Søren Egge",
-      "id": "d6cf2760-f671-460d-96cd-04a2821cf555",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Soren%20Egge%20Rasmussen/Soren_Egge_Rasmussen_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Soren%20Egge%20Rasmussen/Soren_Egge_Rasmussen_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.enhedslisten.dk/soeren-egge-rasmussen"
-        }
-      ],
-      "name": "Søren Egge Rasmussen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elsera.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1953-07-20",
       "contact_details": [
         {
@@ -50228,30 +48970,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "soren.pape.poulsen@ft.dk"
-        }
-      ],
-      "email": "soren.pape.poulsen@ft.dk",
-      "family_name": "Poulsen",
-      "given_name": "Søren Pape",
-      "id": "01f959f7-ee76-4241-a6e5-1c154980cad8",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Soren%20Pape/Soren_Pape_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/KF/Soren%20Pape/Soren_Pape_133.jpg.ashx"
-        }
-      ],
-      "name": "Søren Pape Poulsen",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/kfspp.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1969-11-11",
       "contact_details": [
         {
@@ -50664,36 +49382,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/soren-sondergaard.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "soren.sondergaard@ft.dk"
-        }
-      ],
-      "email": "soren.sondergaard@ft.dk",
-      "family_name": "Søndergaard",
-      "given_name": "Søren",
-      "id": "c86fe769-a51c-4e00-aefa-0d9c3e9ce2e1",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Soren%20Sondergaard/Soren_Sondergaard_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/EL/Soren%20Sondergaard/Soren_Sondergaard_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://sørensøndergaard.dk/"
-        }
-      ],
-      "name": "Søren Søndergaard",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/elsobs.aspx"
         }
       ]
     },
@@ -51413,36 +50101,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "tilde.bork@ft.dk"
-        }
-      ],
-      "email": "tilde.bork@ft.dk",
-      "family_name": "Bork",
-      "given_name": "Tilde",
-      "id": "5b2e8996-fd51-48dd-b6ba-79d5ffbd629e",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Tilde%20Bork/Tilde_Bork_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/DF/Tilde%20Bork/Tilde_Bork_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.tildebork.dk"
-        }
-      ],
-      "name": "Tilde Bork",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/dftibo.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1969-03-28",
       "gender": "female",
       "given_name": "Tina",
@@ -52063,30 +50721,6 @@
       ]
     },
     {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "torsten.gejl@ft.dk"
-        }
-      ],
-      "email": "torsten.gejl@ft.dk",
-      "family_name": "Gejl",
-      "given_name": "Torsten",
-      "id": "92348490-7dcb-49a9-b3e7-0693ba05787d",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Torsten%20Gejl/Torsten_Gejl_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Torsten%20Gejl/Torsten_Gejl_133.jpg.ashx"
-        }
-      ],
-      "name": "Torsten Gejl",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/alttoge.aspx"
-        }
-      ]
-    },
-    {
       "birth_date": "1976-06-26",
       "contact_details": [
         {
@@ -52642,36 +51276,6 @@
           "lang": "sv",
           "name": "Trine Pertou Mach",
           "note": "multilingual"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "trine.torp@ft.dk"
-        }
-      ],
-      "email": "trine.torp@ft.dk",
-      "family_name": "Torp",
-      "given_name": "Trine",
-      "id": "04defaaf-2d0a-4538-a3da-dd0d1dc15927",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Trine%20Torp/Trine_Torp_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/SF/Trine%20Torp/Trine_Torp_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://sf.dk/dine-politikere/folketingsmedlemmer/trine-torp"
-        }
-      ],
-      "name": "Trine Torp",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/sftsto.aspx"
         }
       ]
     },
@@ -53593,36 +52197,6 @@
       "sources": [
         {
           "url": "http://www.thedanishparliament.dk/Members/ulla-sandbaek.aspx"
-        }
-      ]
-    },
-    {
-      "contact_details": [
-        {
-          "type": "email",
-          "value": "ulla.sandbak@ft.dk"
-        }
-      ],
-      "email": "ulla.sandbak@ft.dk",
-      "family_name": "Sandbæk",
-      "given_name": "Ulla",
-      "id": "f5e2e32b-b2e7-48a6-a302-6b61c4621e41",
-      "image": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Ulla%20Sandbaek/Ulla_Sandbaek_133.jpg.ashx",
-      "images": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/~/media/CV/Foto/2015/ALT/Ulla%20Sandbaek/Ulla_Sandbaek_133.jpg.ashx"
-        }
-      ],
-      "links": [
-        {
-          "note": "website",
-          "url": "http://www.facebook.com/UllaSandbaekAlternativet"
-        }
-      ],
-      "name": "Ulla Sandbæk",
-      "sources": [
-        {
-          "url": "http://www.thedanishparliament.dk/Members/altulsa.aspx"
         }
       ]
     },
@@ -63373,14 +61947,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "01f959f7-ee76-4241-a6e5-1c154980cad8",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -63453,14 +62019,6 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "03db3eda-1e55-45a1-972f-76ba2d90616c",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AE4E2E70-9FAE-42C6-9116-4A8D9983E2DA",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "04defaaf-2d0a-4538-a3da-dd0d1dc15927",
       "role": "member"
     },
     {
@@ -63629,34 +62187,10 @@
       "role": "member"
     },
     {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "0b324958-6dd1-4c52-82cf-4f002e4041b5",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "0b67ea77-3750-44e7-96f8-5d8b594ced9a",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "0b8dbde8-f8b8-43ca-8511-84810000f2d2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "ACA585B8-A1C1-4440-A657-A3A00C2859E6",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "0c399929-8ffa-4434-884e-8ebc27f8035c",
       "role": "member"
     },
     {
@@ -64195,14 +62729,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "1cc06f77-2cb6-4e53-9754-835996573c42",
-      "role": "member"
-    },
-    {
       "area_id": "area/zealand",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
@@ -64285,14 +62811,6 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "1f6c0482-3005-4cdd-a7bc-5e671aeb9a91",
-      "role": "member"
-    },
-    {
-      "area_id": "area/bornholm",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "1f82370f-6468-476d-b5c7-5210f08592e4",
       "role": "member"
     },
     {
@@ -64595,14 +63113,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AF65F1D8-0AFE-47DB-ADB1-7CA3C4550EC5",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "22fdf190-cad3-4daf-81c2-2b33032f9300",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1994",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -64756,22 +63266,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/funen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "2721c278-712d-4569-aed3-778668c0adf9",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "2786c06e-f074-4a0f-85a8-407ddffe25f4",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -64886,14 +63380,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "2b31dd91-e18b-403d-a15d-73f34344bce3",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -64905,14 +63391,6 @@
       "on_behalf_of_id": "FF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "2c403d89-8b90-412b-81bd-3d4c9e080b45",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "2c7842fc-6847-4ed4-bb1f-3c6d1cf3d004",
       "role": "member"
     },
     {
@@ -65234,14 +63712,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/western_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "33b632f6-986f-4c57-b44c-cf2086ea306f",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2001",
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -65312,14 +63782,6 @@
       "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "3425488b-0645-45a2-8361-a21d8f8ed1f8",
-      "role": "member"
-    },
-    {
-      "area_id": "area/copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "34fc561f-2623-470e-a7dc-bd21db2341e9",
       "role": "member"
     },
     {
@@ -65520,14 +63982,6 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "3a901077-5cc3-4bc7-8893-282a9a19f7a1",
-      "role": "member"
-    },
-    {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AE4E2E70-9FAE-42C6-9116-4A8D9983E2DA",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "3ab89b46-f441-45d3-9bb5-df04185ec987",
       "role": "member"
     },
     {
@@ -65794,14 +64248,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/funen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "3dc207e6-9427-49fc-bed7-7dced66b337d",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -65889,14 +64335,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "ACA585B8-A1C1-4440-A657-A3A00C2859E6",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "3fef3582-a7a8-4152-b2f9-4da8b7682f38",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "LA",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -65981,22 +64419,6 @@
       "on_behalf_of_id": "R",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "41b5cb99-ceba-4377-b57e-905d31b3c192",
-      "role": "member"
-    },
-    {
-      "area_id": "area/greenland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "59CDEC8C-2602-4AA8-9E55-B56F54DC8F20",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "41e9aea1-c577-4f64-9cd5-02ab9a135e34",
-      "role": "member"
-    },
-    {
-      "area_id": "area/greater_copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "42385e85-2a95-405c-889b-03453460ac9d",
       "role": "member"
     },
     {
@@ -66512,14 +64934,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "4eafec1a-f17b-4c08-b2f4-d4027ce8c5f1",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1994",
       "on_behalf_of_id": "SF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -66567,14 +64981,6 @@
       "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "5058ce98-8677-4861-9c81-5796ed8ba4b7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "AE4E2E70-9FAE-42C6-9116-4A8D9983E2DA",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "50de99e5-ae6f-4653-8af4-aff0973ba742",
       "role": "member"
     },
     {
@@ -66932,14 +65338,6 @@
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "5a7ff9cf-126b-4137-ab38-024b77ffb439",
-      "role": "member"
-    },
-    {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "5b2e8996-fd51-48dd-b6ba-79d5ffbd629e",
       "role": "member"
     },
     {
@@ -67448,22 +65846,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "6668a9ca-3300-4fbe-b183-865562dd472b",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "66702cce-05a7-420e-86c7-5122ea0da81d",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2001",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -67482,14 +65864,6 @@
       "on_behalf_of_id": "K",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "6726a7e0-00d3-4d00-b8c3-26125217f08d",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "ACA585B8-A1C1-4440-A657-A3A00C2859E6",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "67cce966-5d07-4e52-8b69-5756fa57fe1d",
       "role": "member"
     },
     {
@@ -68173,14 +66547,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/greenland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "1C1343ED-BA71-463F-A912-A6A07FCA9EF8",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "753f146f-a4d4-4013-804c-f1933af46d7b",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "KF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -68652,14 +67018,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "7c37cb86-7c0d-4938-b06c-9ea8865ab1db",
-      "role": "member"
-    },
-    {
       "area_id": "area/north_jutland",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
@@ -68766,14 +67124,6 @@
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "7f6be1c2-8d42-4cfd-90fb-9295d0928a3f",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "7fab9435-41b8-4548-816e-44f1b36ab961",
       "role": "member"
     },
     {
@@ -68916,14 +67266,6 @@
       "on_behalf_of_id": "DF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "830c8751-5064-42f1-bd16-0755551185a5",
-      "role": "member"
-    },
-    {
-      "area_id": "area/copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "8369bc0c-5fe4-4af9-b2c3-063dc857bdd4",
       "role": "member"
     },
     {
@@ -69354,14 +67696,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/funen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "8d9f4480-0378-4dbf-b597-7de20d51baab",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2001",
       "on_behalf_of_id": "SF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -69494,14 +67828,6 @@
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "9206972c-e808-41af-bddc-7c67d79e84c2",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "92348490-7dcb-49a9-b3e7-0693ba05787d",
       "role": "member"
     },
     {
@@ -70528,14 +68854,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "abbaf007-cf92-4716-abaf-87b6eaa00869",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -70555,14 +68873,6 @@
       "on_behalf_of_id": "DF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "ac6883a9-56e8-4f2b-8414-8fd53ac85809",
-      "role": "member"
-    },
-    {
-      "area_id": "area/western_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "ac9dfa64-7de1-4d78-abdc-cd179c0dfb5c",
       "role": "member"
     },
     {
@@ -71175,14 +69485,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "c091d0b6-437f-4905-afd4-1112c32e52d6",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2005",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -71535,14 +69837,6 @@
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "c8689e44-a44f-460b-9299-cb24aa83e19f",
-      "role": "member"
-    },
-    {
-      "area_id": "area/greater_copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "c86fe769-a51c-4e00-aefa-0d9c3e9ce2e1",
       "role": "member"
     },
     {
@@ -72385,22 +70679,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "d6cf2760-f671-460d-96cd-04a2821cf555",
-      "role": "member"
-    },
-    {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "d6ed6cc1-b107-4014-9ae6-99679aba40d4",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "RV",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -72533,14 +70811,6 @@
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "d8120202-938e-4858-b7cb-0eccaca9e3bf",
-      "role": "member"
-    },
-    {
-      "area_id": "area/funen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "d851bdcf-e704-4c52-ae98-d4dd0689dd6a",
       "role": "member"
     },
     {
@@ -72730,14 +71000,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "ACA585B8-A1C1-4440-A657-A3A00C2859E6",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "dcb69b7c-88e9-4b19-b048-d86c74539c61",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/1990",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -72820,14 +71082,6 @@
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "de7b3525-4070-444e-bb58-2e439dc7da2e",
-      "role": "member"
-    },
-    {
-      "area_id": "area/zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "dea382a7-f56f-42a4-bb2a-f52bf89132e4",
       "role": "member"
     },
     {
@@ -73048,14 +71302,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "63F84EAA-8483-4115-A775-009467AF1593",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "e4349ac1-4021-4c35-8c68-2ff4ed0ee70b",
-      "role": "member"
-    },
-    {
       "legislative_period_id": "term/2011",
       "on_behalf_of_id": "S",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
@@ -73126,14 +71372,6 @@
       "on_behalf_of_id": "K",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "e79293b5-97d8-41b6-bffe-07a985cd3796",
-      "role": "member"
-    },
-    {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "e7e3ba62-d248-4b1b-97bf-7d2a4e9d1794",
       "role": "member"
     },
     {
@@ -73339,14 +71577,6 @@
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "eda70e7f-cc8c-4845-ad62-034ac6a0c3c7",
-      "role": "member"
-    },
-    {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "ee23a248-ea66-4798-9ddf-a1c382e63820",
       "role": "member"
     },
     {
@@ -73557,14 +71787,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "f4283bdd-56aa-4c03-a1a2-cc7cb06d801b",
-      "role": "member"
-    },
-    {
       "end_date": "2008-02-05",
       "legislative_period_id": "term/2007",
       "on_behalf_of_id": "V",
@@ -73683,14 +71905,6 @@
       "on_behalf_of_id": "V",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "f5de0dfc-10aa-4673-9f21-16c78a470004",
-      "role": "member"
-    },
-    {
-      "area_id": "area/greater_copenhagen",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "f5e2e32b-b2e7-48a6-a302-6b61c4621e41",
       "role": "member"
     },
     {
@@ -73881,14 +72095,6 @@
       "role": "member"
     },
     {
-      "area_id": "area/east_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "A726CCAA-9968-4DCE-A6CD-972D6BFA0934",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "fa48b504-85e8-44ab-9935-e083eb279472",
-      "role": "member"
-    },
-    {
       "area_id": "area/western_jutland",
       "legislative_period_id": "term/2015",
       "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
@@ -73909,22 +72115,6 @@
       "on_behalf_of_id": "F9E65D32-6F2F-4762-A7D5-56DCD0FC9BAF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "faf46682-d614-43bc-a54b-252b69ed8894",
-      "role": "member"
-    },
-    {
-      "area_id": "area/north_zealand",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "fb149496-528e-42fa-acd1-68b538cd7223",
-      "role": "member"
-    },
-    {
-      "area_id": "area/western_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "782DE1D5-0990-43C4-94E7-43FC6C381D8F",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "fb3e33a2-3f9b-407b-9d28-212bcca9cf6a",
       "role": "member"
     },
     {
@@ -74076,14 +72266,6 @@
       "on_behalf_of_id": "SF",
       "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
       "person_id": "fd14ce4b-b38f-4963-a3c6-2c651760d2b1",
-      "role": "member"
-    },
-    {
-      "area_id": "area/south_jutland",
-      "legislative_period_id": "term/2015",
-      "on_behalf_of_id": "43EDF0DA-E8FB-44A6-8482-B5B2047234CB",
-      "organization_id": "4cacca66-8d6f-47f2-a5c4-eaf74fa80999",
-      "person_id": "fd5d0765-7251-4a48-875b-5e068e77c42f",
       "role": "member"
     },
     {
