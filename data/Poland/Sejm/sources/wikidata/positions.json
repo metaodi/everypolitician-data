@@ -858,6 +858,7 @@
       "id": "Q4380777",
       "label": "Ministry of Agriculture and Rural Development",
       "title": "Ministry of Agriculture and Rural Development",
+      "description": "Polish ministry",
       "qualifiers": {
         "P580": "2006-05-05",
         "P582": "2007-07-09",
@@ -1257,7 +1258,8 @@
     {
       "id": "Q4380777",
       "label": "Ministry of Agriculture and Rural Development",
-      "title": "Ministry of Agriculture and Rural Development"
+      "title": "Ministry of Agriculture and Rural Development",
+      "description": "Polish ministry"
     },
     {
       "id": "Q21328636",
