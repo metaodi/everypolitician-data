@@ -7510,11 +7510,11 @@
         "slug": "Sejm",
         "sources_directory": "data/Poland/Sejm/sources",
         "popolo": "data/Poland/Sejm/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ed6d33095befd2487bf678643b167eb3d5ca7d4/data/Poland/Sejm/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cdbbc90da27ab59fd08c6ff7796a9e1d7333a4a1/data/Poland/Sejm/ep-popolo-v1.0.json",
         "names": "data/Poland/Sejm/names.csv",
-        "lastmod": "1476500490",
+        "lastmod": "1476501500",
         "person_count": 2181,
-        "sha": "2ed6d33095befd2487bf678643b167eb3d5ca7d4",
+        "sha": "cdbbc90da27ab59fd08c6ff7796a9e1d7333a4a1",
         "legislative_periods": [
           {
             "id": "term/8",
@@ -7567,7 +7567,7 @@
             "start_date": "1997-10-20",
             "slug": "3",
             "csv": "data/Poland/Sejm/term-3.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ed6d33095befd2487bf678643b167eb3d5ca7d4/data/Poland/Sejm/term-3.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/cdbbc90da27ab59fd08c6ff7796a9e1d7333a4a1/data/Poland/Sejm/term-3.csv"
           },
           {
             "end_date": "1997-10-19",
@@ -7588,7 +7588,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2ed6d33095befd2487bf678643b167eb3d5ca7d4/data/Poland/Sejm/term-1.csv"
           }
         ],
-        "statement_count": 124145
+        "statement_count": 124151
       }
     ]
   },
