@@ -10,7 +10,7 @@
       "create": {
         "from": "morph",
         "scraper": "everypolitician-scrapers/guernsey-2016",
-        "query": "SELECT * FROM data ORDER BY id"
+        "query": "SELECT * FROM data"
       },
       "source": "https://gov.gg/contactus",
       "type": "membership",
