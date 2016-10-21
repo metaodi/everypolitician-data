@@ -6899,7 +6899,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6d83c6aee4c9f534df89a56b94b315ab2ad34b0e/data/North_Korea/National_Assembly/term-13.csv"
           }
         ],
-        "statement_count": 12823
+        "statement_count": 12823,
+        "type": "unicameral legislature"
       }
     ]
   },
