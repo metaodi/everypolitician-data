@@ -4461,7 +4461,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e3d2ccf4ced11e7e2e3a6b27446e299c779466f5/data/Indonesia/Council/term-18.csv"
           }
         ],
-        "statement_count": 12720
+        "statement_count": 12720,
+        "type": "lower house"
       }
     ]
   },
