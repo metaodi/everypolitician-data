@@ -216,7 +216,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c5640c22fc9f6832b5916e269fe855884d29b936/data/Andorra/General_Council/term-2015.csv"
           }
         ],
-        "statement_count": 891
+        "statement_count": 891,
+        "type": "unicameral legislature"
       }
     ]
   },
