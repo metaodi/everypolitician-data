@@ -5111,7 +5111,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ee1326b9cd70fea41d2dcb5627da58176efb51af/data/Kiribati/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 2074
+        "statement_count": 2074,
+        "type": "unicameral legislature"
       }
     ]
   },
