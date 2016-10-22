@@ -8440,7 +8440,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6a4c0d74641f4485f0ba015549e92807344f1c86/data/Serbia/National_Assembly/term-10.csv"
           }
         ],
-        "statement_count": 8262
+        "statement_count": 8262,
+        "type": "unicameral legislature"
       }
     ]
   },
