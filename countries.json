@@ -5190,7 +5190,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4e8b8d7150cb185367422fee24834af06dddf7c8/data/Kuwait/National_Assembly/term-14.csv"
           }
         ],
-        "statement_count": 1350
+        "statement_count": 1350,
+        "type": "unicameral legislature"
       }
     ]
   },
