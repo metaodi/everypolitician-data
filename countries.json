@@ -2671,7 +2671,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/1bdb936b65cff60facc43ae425b3edff80b89441/data/Dominican_Republic/Diputados/term-2010.csv"
           }
         ],
-        "statement_count": 3778
+        "statement_count": 3778,
+        "type": "lower house"
       }
     ]
   },
