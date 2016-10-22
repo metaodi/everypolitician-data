@@ -2194,7 +2194,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/47087463bdf1ecbad42a9792df0c2b1b89b90353/data/Congo-Kinshasa/Assembly/term-2012.csv"
           }
         ],
-        "statement_count": 6872
+        "statement_count": 6872,
+        "type": "lower house"
       }
     ]
   },
