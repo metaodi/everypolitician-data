@@ -3874,7 +3874,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/870c90cb785b8a9ec5c926fcef086dd743e839bb/data/Greece/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 67449
+        "statement_count": 67449,
+        "type": "unicameral legislature"
       }
     ]
   },
