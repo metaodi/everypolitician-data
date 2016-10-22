@@ -2373,7 +2373,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b895b511f4e2fd32c77935e8548497c991974766/data/Cyprus/House_of_Representatives/term-10.csv"
           }
         ],
-        "statement_count": 5382
+        "statement_count": 5382,
+        "type": "unicameral legislature"
       }
     ]
   },
@@ -6929,7 +6930,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e1d590b5a0bca8609b92e0f1b6d8c24558b4951f/data/Northern_Cyprus/Assembly/term-14.csv"
           }
         ],
-        "statement_count": 1803
+        "statement_count": 1803,
+        "type": "unicameral legislature"
       }
     ]
   },
