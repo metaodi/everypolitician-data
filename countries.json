@@ -9054,7 +9054,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a9881d53297ee642a6b69b3957281d8474e89d27/data/Sri_Lanka/Parliament/term-15.csv"
           }
         ],
-        "statement_count": 9019
+        "statement_count": 9019,
+        "type": "unicameral legislature"
       }
     ]
   },
