@@ -1046,7 +1046,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4f778f6df8c4882dfdd94047a3d0f8fcf0941bc5/data/Belgium/Representatives/term-54.csv"
           }
         ],
-        "statement_count": 12799
+        "statement_count": 12799,
+        "type": "lower house"
       }
     ]
   },
