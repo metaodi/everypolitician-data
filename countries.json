@@ -3047,7 +3047,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bc017e86d63713d7226a0d758aa47a1914351d00/data/Fiji/Parliament/term-2014.csv"
           }
         ],
-        "statement_count": 898
+        "statement_count": 898,
+        "type": "unicameral legislature"
       }
     ]
   },
