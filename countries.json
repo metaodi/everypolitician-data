@@ -10946,7 +10946,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e4fea4db9b004a95f8128b81c4a65f2cb587ec42/data/Vietnam/National_Assembly/term-13.csv"
           }
         ],
-        "statement_count": 12077
+        "statement_count": 12077,
+        "type": "unicameral legislature"
       }
     ]
   },
