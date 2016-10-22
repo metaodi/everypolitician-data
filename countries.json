@@ -5054,7 +5054,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a72c6c124ffef8aad450db55d7b206c2466ce92a/data/Kenya/Assembly/term-11.csv"
           }
         ],
-        "statement_count": 10430
+        "statement_count": 10430,
+        "type": "lower house"
       }
     ]
   },
