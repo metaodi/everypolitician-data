@@ -5478,7 +5478,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3a4bed1fcd87d233f226f9889d784cce0534a492/data/Liechtenstein/Landtag/term-2005.csv"
           }
         ],
-        "statement_count": 2649
+        "statement_count": 2649,
+        "type": "unicameral legislature"
       }
     ]
   },
