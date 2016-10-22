@@ -9656,7 +9656,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4d6ce70e623cd2ee7a44dbe5f20ff4747de9cae4/data/Togo/Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 1875
+        "statement_count": 1875,
+        "type": "unicameral legislature"
       }
     ]
   },
