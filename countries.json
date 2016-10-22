@@ -1937,7 +1937,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d3d9c706f5545ba2cb9e523ebc6ba1394bd086ee/data/Chad/Assembly/term-3.csv"
           }
         ],
-        "statement_count": 2588
+        "statement_count": 2588,
+        "type": "unicameral legislature"
       }
     ]
   },
