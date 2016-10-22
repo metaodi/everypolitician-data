@@ -4941,7 +4941,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/698465f0aaf2d4cadf58c376fee8a695e222befa/data/Japan/House_of_Representatives/term-46.csv"
           }
         ],
-        "statement_count": 24565
+        "statement_count": 24565,
+        "type": "lower house"
       }
     ]
   },
