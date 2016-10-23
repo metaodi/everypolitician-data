@@ -56,7 +56,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/30e39a43ce8a7bc79adc75c7875817675129a996/data/Afghanistan/Wolesi_Jirga/term-2010.csv"
           }
         ],
-        "statement_count": 3500
+        "statement_count": 3500,
+        "type": "lower house"
       }
     ]
   },
