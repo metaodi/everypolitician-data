@@ -4134,7 +4134,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4de11443c2af322df823fae491a867bc197a981c/data/Guatemala/Congress/term-7.csv"
           }
         ],
-        "statement_count": 5605
+        "statement_count": 5605,
+        "type": "unicameral legislature"
       }
     ]
   },
