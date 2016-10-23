@@ -3295,7 +3295,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/670bab1d42f12646248c1d5cf0fca7b70e75bfad/data/Gabon/Assembly/term-12.csv"
           }
         ],
-        "statement_count": 1741
+        "statement_count": 1741,
+        "type": "lower house"
       }
     ]
   },
