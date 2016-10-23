@@ -2589,7 +2589,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/58abe05a76396ca7041c51949d910162c16eac37/data/Denmark/Folketing/term-1990.csv"
           }
         ],
-        "statement_count": 40752
+        "statement_count": 40752,
+        "type": "unicameral legislature"
       }
     ]
   },
