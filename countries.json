@@ -7058,7 +7058,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/018fffb38bb7fc0a70a2fc1e2822339b77ed983a/data/Northern_Mariana_Islands/House/term-19.csv"
           }
         ],
-        "statement_count": 844
+        "statement_count": 844,
+        "type": "lower house"
       }
     ]
   },
