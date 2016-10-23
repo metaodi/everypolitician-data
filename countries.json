@@ -9138,7 +9138,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/b07233fdfd0215d4ef2de156ba8b4c1455a8ba31/data/Suriname/Assembly/term-2010.csv"
           }
         ],
-        "statement_count": 3309
+        "statement_count": 3309,
+        "type": "unicameral legislature"
       }
     ]
   },
