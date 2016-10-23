@@ -11132,7 +11132,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d1029e414a3748f1b5b09a2224a66a05b0eb4939/data/Zambia/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 3890
+        "statement_count": 3890,
+        "type": "unicameral legislature"
       }
     ]
   },
