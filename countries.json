@@ -8769,7 +8769,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3f1e80bcb72ab7454267295b2d771774fb7770b4/data/Slovakia/National_Council/term-2.csv"
           }
         ],
-        "statement_count": 35488
+        "statement_count": 35488,
+        "type": "unicameral legislature"
       }
     ]
   },
