@@ -10232,7 +10232,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f861d17781a135488fe0c70311d2a7fe90ca849d/data/Tuvalu/Parliament/term-9.csv"
           }
         ],
-        "statement_count": 1836
+        "statement_count": 1836,
+        "type": "unicameral legislature"
       }
     ]
   },
