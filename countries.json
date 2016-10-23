@@ -2242,7 +2242,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/e53b65b967e1f0aef92f6eeeed517224483d1f3b/data/Cook_Islands/Parliament/term-12.csv"
           }
         ],
-        "statement_count": 2315
+        "statement_count": 2315,
+        "type": "unicameral legislature"
       }
     ]
   },
