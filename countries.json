@@ -5002,7 +5002,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6faebc4dd7b365689f582f65f0fc523dee94d539/data/Jordan/House_of_Representatives/term-2013.csv"
           }
         ],
-        "statement_count": 2031
+        "statement_count": 2031,
+        "type": "lower house"
       }
     ]
   },
