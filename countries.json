@@ -2028,7 +2028,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/f0943b9b6c004a818e865d3e062f55d0f13dd160/data/Chile/Deputies/term-1.csv"
           }
         ],
-        "statement_count": 17815
+        "statement_count": 17815,
+        "type": "unicameral legislature"
       }
     ]
   },
