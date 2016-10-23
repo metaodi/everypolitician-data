@@ -1913,7 +1913,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/aabc6480ccf3e5bd173fd80bf3f75cc113eff898/data/Cayman_Islands/Legislative_Assembly/term-2013.csv"
           }
         ],
-        "statement_count": 715
+        "statement_count": 715,
+        "type": "unicameral legislature"
       }
     ]
   },
