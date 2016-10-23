@@ -7860,7 +7860,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/dd6945102576d2674c210abfed955a267e660e22/data/Russia/Duma/term-6.csv"
           }
         ],
-        "statement_count": 25660
+        "statement_count": 25660,
+        "type": "lower house"
       }
     ]
   },
