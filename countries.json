@@ -9060,7 +9060,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/3efa049fc5152c99459952f151e8cc18c74d0685/data/Spain/Congress/term-10.csv"
           }
         ],
-        "statement_count": 33249
+        "statement_count": 33249,
+        "type": "unicameral legislature"
       }
     ]
   },
