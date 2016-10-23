@@ -5597,7 +5597,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4f6c8784728d9b552d9e83f2ca44e5be0bc2dc35/data/Macao/Assembly/term-10.csv"
           }
         ],
-        "statement_count": 1035
+        "statement_count": 1035,
+        "type": "unicameral legislature"
       }
     ]
   },
