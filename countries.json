@@ -10323,7 +10323,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/10ebf6cf1f8bdf703d2da8fca0376da5d9bc0762/data/Ukraine/Verkhovna_Rada/term-8.csv"
           }
         ],
-        "statement_count": 22121
+        "statement_count": 22121,
+        "type": "unicameral legislature"
       }
     ]
   },
@@ -10421,7 +10422,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d3436f3dcf1325744c90f8fa426a8b72ed61ca7d/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 134909
+        "statement_count": 134909,
+        "type": "lower house"
       }
     ]
   },
