@@ -10893,7 +10893,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6bed61296869c11c2e4945a0fcbf757405a937b5/data/Vanuatu/Parliament/term-10.csv"
           }
         ],
-        "statement_count": 2920
+        "statement_count": 2920,
+        "type": "unicameral legislature"
       }
     ]
   },
