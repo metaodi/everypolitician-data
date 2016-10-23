@@ -9527,7 +9527,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/2bf99021d28e30aa65324b8d24df37f730a02c0b/data/Taiwan/Legislative_Yuan/term-8.csv"
           }
         ],
-        "statement_count": 7746
+        "statement_count": 7746,
+        "type": "unicameral legislature"
       }
     ]
   },
