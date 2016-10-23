@@ -1082,7 +1082,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bab35ae15ccbc2197aada695c4dea2725febb2f6/data/Belize/Representatives/term-2012.csv"
           }
         ],
-        "statement_count": 1232
+        "statement_count": 1232,
+        "type": "lower house"
       }
     ]
   },
