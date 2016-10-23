@@ -638,8 +638,9 @@
     },
     {
       "id": "Q2588268",
-      "label": "Speaker of the House of Representatives (Netherlands)",
-      "title": "Speaker of the House of Representatives (Netherlands)",
+      "label": "Speaker of the House of Representatives",
+      "title": "Speaker of the House of Representatives",
+      "description": "elected member leading the meetings of the House of Representatives of the Netherlands",
       "qualifiers": {
         "P580": "2012-09-25",
         "P1365": "Gerdi Verbeet",
@@ -1182,8 +1183,9 @@
     },
     {
       "id": "Q2588268",
-      "label": "Speaker of the House of Representatives (Netherlands)",
-      "title": "Speaker of the House of Representatives (Netherlands)",
+      "label": "Speaker of the House of Representatives",
+      "title": "Speaker of the House of Representatives",
+      "description": "elected member leading the meetings of the House of Representatives of the Netherlands",
       "qualifiers": {
         "P580": "2016-01-13"
       }
