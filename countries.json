@@ -4450,7 +4450,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/4153cb9c7f41bd93658ea30e7e5878c04404490d/data/India/Lok_Sabha/term-16.csv"
           }
         ],
-        "statement_count": 38994
+        "statement_count": 38994,
+        "type": "unicameral legislature"
       }
     ]
   },
