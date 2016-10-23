@@ -10817,7 +10817,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a4975a107adf3644d143ef18462e120dcdbeb508/data/Uruguay/Deputies/term-48.csv"
           }
         ],
-        "statement_count": 3495
+        "statement_count": 3495,
+        "type": "lower house"
       }
     ]
   },
