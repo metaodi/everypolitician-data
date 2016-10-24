@@ -5186,7 +5186,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ab3e8b562e7e182d7efb11113f001019985cc33a/data/Kosovo/Assembly/term-chamber_2001-11-17.csv"
           }
         ],
-        "statement_count": 9417
+        "statement_count": 9417,
+        "type": "unicameral legislature"
       }
     ]
   },
