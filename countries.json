@@ -5979,7 +5979,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/6e14d68fb8ac95033e092abc1b2a60c8d03a2d7d/data/Mauritania/National_Assembly/term-12.csv"
           }
         ],
-        "statement_count": 1900
+        "statement_count": 1900,
+        "type": "lower house"
       }
     ]
   },
