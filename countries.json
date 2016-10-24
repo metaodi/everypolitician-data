@@ -2936,7 +2936,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/94ff3ff797eaaad061e41b289adc86775a887268/data/Falkland_Islands/Assembly/term-1977.csv"
           }
         ],
-        "statement_count": 2035
+        "statement_count": 2035,
+        "type": "unicameral legislature"
       }
     ]
   },
