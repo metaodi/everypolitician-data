@@ -5566,7 +5566,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/c28ee7764113aadbcd9e86879ea13c2130609a73/data/Luxembourg/Chamber/term-2013.csv"
           }
         ],
-        "statement_count": 4088
+        "statement_count": 4088,
+        "type": "unicameral legislature"
       }
     ]
   },
