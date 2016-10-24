@@ -7361,7 +7361,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/668b5fdb6c2288f01bb23410efe788e7782e5470/data/Palau/House_of_Delegates/term-2012.csv"
           }
         ],
-        "statement_count": 629
+        "statement_count": 629,
+        "type": "lower house"
       }
     ]
   },
