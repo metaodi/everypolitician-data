@@ -157,7 +157,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/780680134e2d2d3303ab8940d657960910d36995/data/Algeria/Majlis/term-7.csv"
           }
         ],
-        "statement_count": 8315
+        "statement_count": 8315,
+        "type": "lower house"
       }
     ]
   },
