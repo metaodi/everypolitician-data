@@ -7806,7 +7806,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/09e3423798ad623c84b82c3deb3cc0ea2113f67e/data/Puerto_Rico/House_of_Representatives/term-29.csv"
           }
         ],
-        "statement_count": 3109
+        "statement_count": 3109,
+        "type": "lower house"
       }
     ]
   },
