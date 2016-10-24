@@ -1483,7 +1483,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/a1ee914c2e9714d5f3dbcb5e8c3f9ddde471ec2d/data/Brunei/Legislative_Council/term-11.csv"
           }
         ],
-        "statement_count": 311
+        "statement_count": 311,
+        "type": "unicameral legislature"
       }
     ]
   },
