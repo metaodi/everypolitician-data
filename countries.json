@@ -9858,7 +9858,8 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/11575239cfe330e5bd07bb9143069fe0de320f4e/data/Tunisia/Majlis/term-1.csv"
           }
         ],
-        "statement_count": 4880
+        "statement_count": 4880,
+        "type": "unicameral legislature"
       }
     ]
   },
