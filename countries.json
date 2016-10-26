@@ -11296,11 +11296,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Zambia/Assembly/sources",
         "popolo": "data/Zambia/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d1029e414a3748f1b5b09a2224a66a05b0eb4939/data/Zambia/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/02c29cba76b89938224e956b89b80df3855c7db9/data/Zambia/Assembly/ep-popolo-v1.0.json",
         "names": "data/Zambia/Assembly/names.csv",
-        "lastmod": "1476610186",
+        "lastmod": "1477492001",
         "person_count": 148,
-        "sha": "d1029e414a3748f1b5b09a2224a66a05b0eb4939",
+        "sha": "02c29cba76b89938224e956b89b80df3855c7db9",
         "legislative_periods": [
           {
             "id": "term/2011",
@@ -11311,7 +11311,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/d1029e414a3748f1b5b09a2224a66a05b0eb4939/data/Zambia/Assembly/term-2011.csv"
           }
         ],
-        "statement_count": 3890,
+        "statement_count": 3892,
         "type": "unicameral legislature"
       }
     ]
