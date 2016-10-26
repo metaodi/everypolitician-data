@@ -443,6 +443,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0gjdqy6",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q1051020",
           "scheme": "wikidata"
         }
