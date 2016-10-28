@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "tmtmtmtm/laos-national-assembly",
-        "query": "SELECT * FROM data WHERE term = 2011 ORDER BY name"
+        "query": "SELECT * FROM data WHERE term = 2016 ORDER BY name"
       },
       "source": "http://na.gov.la/",
       "type": "membership",
