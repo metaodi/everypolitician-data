@@ -6015,11 +6015,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Malta/Assembly/sources",
         "popolo": "data/Malta/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/674f949e60949c478ea733a7fed4015e8aa429fe/data/Malta/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/287fc12e0b1228eb4df312226964563b4f8be7f9/data/Malta/Assembly/ep-popolo-v1.0.json",
         "names": "data/Malta/Assembly/names.csv",
-        "lastmod": "1477463099",
+        "lastmod": "1477967849",
         "person_count": 72,
-        "sha": "674f949e60949c478ea733a7fed4015e8aa429fe",
+        "sha": "287fc12e0b1228eb4df312226964563b4f8be7f9",
         "legislative_periods": [
           {
             "id": "term/12",
