@@ -3047,6 +3047,7 @@
         }
       ],
       "email": "dep.andressanchez@camara.leg.br",
+      "family_name": "Navarro",
       "gender": "male",
       "given_name": "Andrés",
       "id": "1f87f117-2df7-490a-a937-2050ba800be2",
@@ -3094,7 +3095,52 @@
           "note": "alternate"
         },
         {
+          "lang": "af",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "ca",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
@@ -3109,7 +3155,32 @@
           "note": "multilingual"
         },
         {
+          "lang": "de-at",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
@@ -3119,7 +3190,47 @@
           "note": "multilingual"
         },
         {
+          "lang": "et",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "fr",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gd",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
@@ -3129,7 +3240,37 @@
           "note": "multilingual"
         },
         {
+          "lang": "gsw",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "hu",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
@@ -3139,7 +3280,77 @@
           "note": "multilingual"
         },
         {
+          "lang": "jam",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "nb",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
@@ -3154,12 +3365,137 @@
           "note": "multilingual"
         },
         {
+          "lang": "nrm",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "pt",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         },
         {
+          "lang": "pt-br",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
           "lang": "sv",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Andrés Sánchez",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zu",
           "name": "Andrés Sánchez",
           "note": "multilingual"
         }
@@ -30942,6 +31278,9 @@
       "images": [
         {
           "url": "http://www.camara.gov.br/internet/deputado/bandep/160662.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Luiz_Fernando_Machado.jpg"
         }
       ],
       "links": [
@@ -58180,32 +58519,32 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hant",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-hk",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-cn",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-sg",
-          "name": "无党籍人士",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -58340,7 +58679,7 @@
         },
         {
           "lang": "zh",
-          "name": "無黨籍人士",
+          "name": "無黨籍政治人物",
           "note": "multilingual"
         },
         {
@@ -58471,6 +58810,16 @@
         {
           "lang": "tg",
           "name": "сиёсатмадори мустақил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "無黨籍政治人物",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "无党籍政治人物",
           "note": "multilingual"
         },
         {
