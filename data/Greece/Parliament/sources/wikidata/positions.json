@@ -1188,6 +1188,16 @@
       }
     }
   ],
+  "Q21027732": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021875"
+      }
+    }
+  ],
   "Q7563998": [
     {
       "id": "Q18915989",
