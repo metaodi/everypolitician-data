@@ -212,6 +212,11 @@
         "note": "multilingual"
       },
       {
+        "lang": "ja",
+        "name": "1981年の総選挙",
+        "note": "multilingual"
+      },
+      {
         "lang": "fr",
         "name": "Élections législatives de 1981",
         "note": "multilingual"
@@ -765,6 +770,11 @@
         "lang": "nl",
         "name": "Belgische verkiezingen 2007",
         "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "2007年の総選挙",
+        "note": "multilingual"
       }
     ],
     "dates": [
@@ -1018,6 +1028,11 @@
       {
         "lang": "it",
         "name": "Elezioni parlamentari belghe del 2003",
+        "note": "multilingual"
+      },
+      {
+        "lang": "ja",
+        "name": "2003年の総選挙",
         "note": "multilingual"
       }
     ],
