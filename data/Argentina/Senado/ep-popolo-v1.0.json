@@ -531,6 +531,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/martinezsenador"
+        },
+        {
+          "note": "website",
+          "url": "http://www.freddymartinez.com.ar"
         }
       ],
       "name": "Alfredo Anselmo Martínez",
@@ -4673,6 +4677,7 @@
       ]
     },
     {
+      "birth_date": "1943-04-20",
       "contact_details": [
         {
           "type": "email",
@@ -4692,6 +4697,12 @@
       "gender": "female",
       "given_name": "Marta",
       "id": "c4b4c18f-0b61-4b0b-8951-8905dc7299df",
+      "identifiers": [
+        {
+          "identifier": "Q26912658",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/476.png",
       "images": [
         {
@@ -4699,6 +4710,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Marta_Varela"
+        },
         {
           "note": "facebook",
           "url": "https://facebook.com/MartaVarela15"
@@ -4709,6 +4724,23 @@
         }
       ],
       "name": "Marta Varela",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Marta Varela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Marta Varela",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Marta Varela",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Varela, Marta",
       "sources": [
         {
@@ -4717,6 +4749,7 @@
       ]
     },
     {
+      "birth_date": "1974-02-16",
       "contact_details": [
         {
           "type": "email",
@@ -4736,6 +4769,12 @@
       "gender": "female",
       "given_name": "María Cristina del Valle",
       "id": "56e4cd5e-94f2-4568-8e74-6edb33344326",
+      "identifiers": [
+        {
+          "identifier": "Q21573359",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/444.png",
       "images": [
         {
@@ -4744,15 +4783,39 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Cristina_Fiore"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/Cristina-Fiore-Vi%C3%B1uales-380477738689513"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/Cristina-Fiore-Viñuales-380477738689513"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/fiore_cristina"
+        },
+        {
+          "note": "website",
+          "url": "http://www.fioresenadora.com/"
         }
       ],
       "name": "María Cristina del Valle Fiore Viñuales",
+      "other_names": [
+        {
+          "lang": "es",
+          "name": "María Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Cristina del Valle Fiore Viñuales",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Fiore Viñuales, María Cristina del Valle",
       "sources": [
         {
@@ -4835,6 +4898,7 @@
       ]
     },
     {
+      "birth_date": "1965-08-02",
       "contact_details": [
         {
           "type": "email",
@@ -4854,6 +4918,12 @@
       "gender": "female",
       "given_name": "María Inés",
       "id": "fac042de-4931-40f9-b51a-6c8aeb7248a1",
+      "identifiers": [
+        {
+          "identifier": "Q6003917",
+          "scheme": "wikidata"
+        }
+      ],
       "image": "http://www.senado.gov.ar/bundles/senadosenadores/images/fsena/435.png",
       "images": [
         {
@@ -4862,11 +4932,62 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/María_Inés_Pilatti_Vergara"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/pilattivergara"
         }
       ],
       "name": "María Inés Pilatti Vergara",
+      "other_names": [
+        {
+          "lang": "da",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "María Inés Pilatti Vergara",
+          "note": "multilingual"
+        }
+      ],
       "sort_name": "Pilatti Vergara, María Inés",
       "sources": [
         {
