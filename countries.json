@@ -2330,12 +2330,20 @@
         "slug": "Sabor",
         "sources_directory": "data/Croatia/Sabor/sources",
         "popolo": "data/Croatia/Sabor/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/9635cf3122fff967c12d4c86771444a5fbc8098b/data/Croatia/Sabor/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef389e360a7be7c601c21165be56cb145e5cc356/data/Croatia/Sabor/ep-popolo-v1.0.json",
         "names": "data/Croatia/Sabor/names.csv",
-        "lastmod": "1479090181",
-        "person_count": 287,
-        "sha": "9635cf3122fff967c12d4c86771444a5fbc8098b",
+        "lastmod": "1477311399",
+        "person_count": 318,
+        "sha": "ef389e360a7be7c601c21165be56cb145e5cc356",
         "legislative_periods": [
+          {
+            "id": "term/9",
+            "name": "9th Assembly",
+            "start_date": "2016-10-14",
+            "slug": "9",
+            "csv": "data/Croatia/Sabor/term-9.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ef389e360a7be7c601c21165be56cb145e5cc356/data/Croatia/Sabor/term-9.csv"
+          },
           {
             "end_date": "2016-07-15",
             "id": "term/8",
@@ -2355,7 +2363,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bbe2016a734c7e0c75393e37af7d64f1e5ab87d7/data/Croatia/Sabor/term-7.csv"
           }
         ],
-        "statement_count": 10400,
+        "statement_count": 11144,
         "type": "unicameral legislature"
       }
     ]
