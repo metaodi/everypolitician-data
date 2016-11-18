@@ -11,7 +11,7 @@ namespace :whittle do
 
   task meta_info: :load do
     @json[:meta] ||= {}
-    @json[:meta][:sources] = @SOURCES.flat_map { |s| s.i(:source) }.compact.uniq
+    @json[:meta][:sources] = @SOURCES.flat_map(&:urls).compact.uniq
   end
 
   # Remove any 'warnings' left behind from (e.g.) csv-to-popolo
