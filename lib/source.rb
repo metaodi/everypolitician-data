@@ -94,6 +94,18 @@ module Source
       File.read(filename)
     end
 
+    def urls
+      Array(i(:source)).map do |url|
+        begin
+          URI.parse(
+            URI.encode(URI.decode(url)).gsub('[', '%5B').gsub(']', '%5D')
+          ).to_s
+        rescue URI::InvalidURIError
+          abort "#{url} is not a valid URL"
+        end
+      end
+    end
+
     private
 
     def add_warning(str)
