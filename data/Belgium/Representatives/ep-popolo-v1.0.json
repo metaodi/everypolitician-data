@@ -17309,8 +17309,53 @@
       ]
     },
     {
+      "birth_date": "1980-10-28",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Vincent.VanPeteghem@dekamer.be"
+        }
+      ],
+      "email": "Vincent.VanPeteghem@dekamer.be",
+      "gender": "male",
+      "given_name": "Vincent",
       "id": "0e9859bd-8205-4116-9dd2-3f916deae237",
-      "name": "Vincent Van Peteghem"
+      "identifiers": [
+        {
+          "identifier": "Q27826608",
+          "scheme": "wikidata"
+        }
+      ],
+      "image": "http://www.lachambre.be/site/wwwroot/images/cv/6919.gif",
+      "images": [
+        {
+          "url": "http://www.lachambre.be/site/wwwroot/images/cv/6919.gif"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/Vincent_Van_Peteghem"
+        },
+        {
+          "note": "website",
+          "url": "http://www.vincentvanpeteghem.be"
+        }
+      ],
+      "name": "Vincent Van Peteghem",
+      "other_names": [
+        {
+          "lang": "nl",
+          "name": "Vincent Van Peteghem",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Van Peteghem Vincent",
+      "sources": [
+        {
+          "url": "http://www.lachambre.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=cvview54.cfm?key=06919&lactivity=54"
+        }
+      ]
     },
     {
       "birth_date": "1973-08-01",
