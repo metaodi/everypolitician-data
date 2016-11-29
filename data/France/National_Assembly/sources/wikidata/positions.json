@@ -18328,13 +18328,58 @@
     {
       "id": "Q3044918",
       "label": "member of the French National Assembly",
-      "title": "member of the French National Assembly"
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q24014288",
+        "P580": "1986-04-02",
+        "P582": "1986-07-08"
+      }
     },
     {
       "id": "Q382617",
       "label": "maire",
       "title": "maire",
       "description": "mayor in France"
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q24014288",
+        "P580": "1986-08-24",
+        "P582": "1988-05-14"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q2394708",
+        "P580": "1988-06-23",
+        "P582": "1992-04-02"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q2394708",
+        "P580": "1993-04-02",
+        "P582": "1997-04-21"
+      }
+    },
+    {
+      "id": "Q3044918",
+      "label": "member of the French National Assembly",
+      "title": "member of the French National Assembly",
+      "qualifiers": {
+        "P768": "Q2394708",
+        "P580": "2002-06-19",
+        "P582": "2007-06-19"
+      }
     }
   ],
   "Q3124373": [
@@ -18394,10 +18439,10 @@
       "description": "French minister"
     },
     {
-      "id": "Q509816",
-      "label": "Ministry of Justice",
-      "title": "Ministry of Justice",
-      "description": "justice ministry in France"
+      "id": "Q17553783",
+      "label": "Minister of Justice",
+      "title": "Minister of Justice",
+      "description": "French cabinet position"
     },
     {
       "id": "Q20203006",
