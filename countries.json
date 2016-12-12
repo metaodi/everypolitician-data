@@ -3338,11 +3338,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Gabon/Assembly/sources",
         "popolo": "data/Gabon/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bd21c32020fbd86f3f4bedc52d576b116f6f35bf/data/Gabon/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/19d546b72182f12e1fbd6c54b8aef65252f18746/data/Gabon/Assembly/ep-popolo-v1.0.json",
         "names": "data/Gabon/Assembly/names.csv",
-        "lastmod": "1478430902",
+        "lastmod": "1481573047",
         "person_count": 114,
-        "sha": "bd21c32020fbd86f3f4bedc52d576b116f6f35bf",
+        "sha": "19d546b72182f12e1fbd6c54b8aef65252f18746",
         "legislative_periods": [
           {
             "id": "term/12",
