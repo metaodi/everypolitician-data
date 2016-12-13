@@ -59,6 +59,28 @@
       "sort_name": "Agipar BAKEI"
     },
     {
+      "id": "b96190ac-789f-43e2-9547-0c118a977b17",
+      "name": "Agvaanluvsangiin Undraa",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Агваанлувсангийн Ундраа",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "dc17e923-732e-4efc-b47c-124ef78e5434",
+      "name": "Agvaansamdangiin Sükhbat",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Агваансамдагийн Сүхбат",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -100,6 +122,17 @@
         }
       ],
       "sort_name": "Almalik TLEIKHAN"
+    },
+    {
+      "id": "4b1dc780-ee43-4d0d-80e5-53b21d6d450f",
+      "name": "Baagaagiin Battömör",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Баагаагийн Баттөмөр",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1964-07-06",
@@ -190,6 +223,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "mn",
+          "name": "Бадмаанямбуурийн Бат-Эрдэнэ",
+          "note": "multilingual"
+        },
+        {
           "lang": "nl",
           "name": "Badmaanyambuugiin Bat-Erdene",
           "note": "multilingual"
@@ -201,6 +239,17 @@
         }
       ],
       "sort_name": "Badmaanyambuu BAT-ERDENE"
+    },
+    {
+      "id": "fdfa1c8b-4f8c-4685-b98d-3f9ee2e60134",
+      "name": "Batbayaryn Undarmaa",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Батбаярын Ундармаа",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-12-03",
@@ -250,6 +299,17 @@
         {
           "lang": "nl",
           "name": "Batjargalyn Batbayar",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "60b4d467-6a8e-4c03-a7a0-5f982916332f",
+      "name": "Batjargalyn Batzorig",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Батжаргалын Батзориг",
           "note": "multilingual"
         }
       ]
@@ -325,6 +385,17 @@
         }
       ],
       "sort_name": "Batsukh NARANKHUU"
+    },
+    {
+      "id": "9fbbfd97-6c99-41a7-ac7d-4b9eaf3fb307",
+      "name": "Batsükhiin Saranchimeg",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Батсүхийн Саранчимэг",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -411,6 +482,61 @@
         }
       ],
       "sort_name": "Bayarbaatar BOLOR"
+    },
+    {
+      "id": "c63c5407-bdd9-47ff-bbd1-d6e9accf76d5",
+      "name": "Boldyn Javkhlan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Болдын Жавхлан",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "acd92ca3-c752-44e1-9918-0a16f3599686",
+      "name": "Borkhüügiin Delgersaikhan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Борхүүгийн Дэлгэрсайхан",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "0df212d1-3ddd-4592-9f56-ef9f1a76e190",
+      "name": "Borkhüüyamtaishiryn Nomtoibayar",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Нямтайширын Номтойбаяр",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "50ce5845-1d74-40c2-bd5a-2469655f53ae",
+      "name": "Byambasürengiin Enkh-Amgalan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Бямбасүрэнгийн Энх-Амгалан",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "da4c3f14-ab63-4c35-abe2-e71142add047",
+      "name": "Bökhchuluuny Pürevdorj",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Бөхчулууны Пүрэвдорж",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -725,6 +851,17 @@
       ]
     },
     {
+      "id": "3f7644bc-bd99-431f-b9a7-be930aa1934d",
+      "name": "Dakein Murat",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Дакейн Мурат",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -923,6 +1060,17 @@
         {
           "lang": "mn",
           "name": "Дамдины Хаянхярваа",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "a87b15c3-5d54-4c15-bf6e-6f956e2a3c4a",
+      "name": "Damdiny Tsogtbaatar",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Дамдины Цогтбаатар",
           "note": "multilingual"
         }
       ]
@@ -1231,6 +1379,28 @@
         {
           "lang": "nl",
           "name": "Kyokushūzan Noboru",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "dadf914b-6fac-4442-ae8d-499ff6932090",
+      "name": "Davaagiin Ganbold",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Даваагийн Ганболд",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "47ec2aa6-56cb-4eb7-99b3-95d2826851a9",
+      "name": "Davaajantsangiin Sarangerel",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Даваажанцангийн Сарангэрэл",
           "note": "multilingual"
         }
       ]
@@ -1571,6 +1741,17 @@
       ]
     },
     {
+      "id": "308033ef-ff37-4bb9-990d-ef9976c99919",
+      "name": "Dorjdugaryn Gantulga",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Дорждугарын Гантулга",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "id": "620c1228-1035-4ea7-988e-692cf9cb33f4",
       "identifiers": [
         {
@@ -1583,6 +1764,17 @@
         {
           "lang": "mn",
           "name": "Доржийн Одбаяр",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "c6dcd47b-1081-4e02-972e-89a4b772c864",
+      "name": "Dulamdorjiin Togtokhsüren",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Дуламдоржийн Тогтохсүрэн",
           "note": "multilingual"
         }
       ]
@@ -1625,6 +1817,11 @@
         {
           "lang": "mn",
           "name": "Дуламсүрэнгийн Оюунхорол",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mn",
+          "name": "Дүламсүрэнгийн Оюунхорол",
           "note": "multilingual"
         }
       ],
@@ -1795,6 +1992,17 @@
       "sort_name": "Gantumur UYANGA"
     },
     {
+      "id": "2c9eaa16-c1ab-4b9f-96b9-85bc89e5bb41",
+      "name": "Ganzorigiin Temüülen",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Ганзоригийн Тэмүүлэн",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -1896,6 +2104,17 @@
         }
       ],
       "sort_name": "Gavaa BATKHUU"
+    },
+    {
+      "id": "ab2a5ddb-fd9c-433f-a671-211a7068cc7d",
+      "name": "Gombojain Soltan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Гомбожайн Солтан",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-03-08",
@@ -2002,6 +2221,28 @@
       ]
     },
     {
+      "id": "c6f7ad7c-99ed-403e-a321-a89f56c639fb",
+      "name": "Gompildoogiin Mönkhtsetseg",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Гомпилдоогийн Мөнхцэцэг",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "dd45b3b5-0748-44a7-9ad5-7128de08a963",
+      "name": "Jadambyn Bat-Erdene",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Жадамбын Бат-Эрдэнэ",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2086,6 +2327,28 @@
         }
       ],
       "sort_name": "Jalbasuren BATZANDAN"
+    },
+    {
+      "id": "d3904fb6-889e-48b8-a90c-4e5a2855153e",
+      "name": "Jambalyn Ganbaatar",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Жамбалын Ганбаатар",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "484f3ef1-5c43-4ab7-82e5-f1a1398dc84f",
+      "name": "Jamyangiin Mönkhbat",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Жамъянгийн Мөнхбат",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "9dad4b4a-4c46-4e3d-bab7-b56493321fc0",
@@ -2333,6 +2596,17 @@
       ]
     },
     {
+      "id": "8bbe46f6-e8cb-4175-9646-ff58e24dc189",
+      "name": "Khishgeegiin Nyambaatar",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Хишгээгийн Нямбаатар",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2504,6 +2778,28 @@
       ]
     },
     {
+      "id": "8985975a-50da-4350-bf8d-fbfcf9121a39",
+      "name": "Lkhagvaagiin Eldev-Ochir",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Лхагваагийн Элдэв-Очир",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "44e41523-3157-4187-accd-a55f8917eeb6",
+      "name": "Lkhagvyn Mönkhbaatar",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Лхагвын Мөнхбаатар",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2545,6 +2841,17 @@
         }
       ],
       "sort_name": "Log TSOG"
+    },
+    {
+      "id": "a7b10047-7a6b-417a-a7f0-30a2e9afb59c",
+      "name": "Luvsangiin Enkhbold",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Лувсангийн Энхболд",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2600,6 +2907,17 @@
         }
       ],
       "sort_name": "Luvsan ERDENECHIMEG"
+    },
+    {
+      "id": "2a559f7f-ac5a-44f5-92b7-654eb12a947c",
+      "name": "Luvsannamsarin Oyuun-Erdene",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Лувсаннамсрайн Оюун-Эрдэнэ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -2772,6 +3090,17 @@
       ]
     },
     {
+      "id": "c7ddac53-c139-41d9-8ed5-73202954e9bd",
+      "name": "Magvany Bilegt",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Магваны Билэгт",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -2869,7 +3198,7 @@
       "other_names": [
         {
           "lang": "mn",
-          "name": "Миеэгомбо Энхболд",
+          "name": "Миеэгомбын Энхболд",
           "note": "multilingual"
         }
       ]
@@ -3177,6 +3506,17 @@
       "sort_name": "Munkhchuluun ZORIGT"
     },
     {
+      "id": "ce1dd40a-2f50-4beb-a7fb-86d4071816c6",
+      "name": "Mönkhöögiin Oyuunchimeg",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Мөнхөөгийн Оюунчимэг",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3218,6 +3558,39 @@
         }
       ],
       "sort_name": "Namdag BATTSEREG"
+    },
+    {
+      "id": "41923e4f-fe8d-4951-8fdc-e5ae426d36c3",
+      "name": "Namsrain Amarzayaa",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Намсрайн Амарзаяа",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "0d334c52-9714-4701-8ac8-b06df1c2061d",
+      "name": "Namsrain Tserenbat",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Намсрайн Цэрэнбат",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "e1ac0250-65a0-4064-a99c-efe16d993e83",
+      "name": "Navaan-Yundengiin Oyundari",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Наваан-Юндэнгийн Оюндарь",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "eb23d6b1-8455-440f-9011-6cefa9f2ed20",
@@ -3488,6 +3861,17 @@
       "sort_name": "Norov ALTANKHUYAG"
     },
     {
+      "id": "f32f0615-df0f-4d7b-8284-9c5a74c9d588",
+      "name": "Nyam-Osoryn Uchral",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Ням-Осорын Учрал",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -3754,6 +4138,17 @@
         }
       ],
       "sort_name": "Otgonbileg SODBILEG"
+    },
+    {
+      "id": "1ba63d35-b329-4b7d-9b95-3d9f9c2fb4ba",
+      "name": "Otgoogiin Batnasan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Отгоогийн Батнасан",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "993e645f-d077-4e5d-af9b-473d6b1ed386",
@@ -4142,6 +4537,17 @@
         }
       ],
       "sort_name": "Saldan ODONTUYA"
+    },
+    {
+      "id": "7716c656-9e5b-4154-b5e4-121eb034e353",
+      "name": "Samandyn Javkhlan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Самандын Жавхлан",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -4619,6 +5025,17 @@
       "sort_name": "Sharavdorj TUVDENDORJ"
     },
     {
+      "id": "2118ed39-2a9e-4d05-a1ef-0ce1bd41bf08",
+      "name": "Shatarbalyn Radnaased",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Шатарбалын Раднаасэд",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "id": "fcedf776-8306-4e2e-be00-40383fca81aa",
       "identifiers": [
         {
@@ -4631,6 +5048,17 @@
         {
           "lang": "mn",
           "name": "Шинэнсамбуугийн Сайхансамбуу",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "74a4826f-96a0-4ace-b95a-428c8533685d",
+      "name": "Sodnomyn Chinzorig",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Содномын Чинзориг",
           "note": "multilingual"
         }
       ]
@@ -5477,6 +5905,28 @@
       ]
     },
     {
+      "id": "0e310619-1c24-4cef-a0cc-f242872878a7",
+      "name": "Tsedenbalyn Tsogzolmaa",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Цэдэнбалын Цогзолмаа",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "fe0b06bf-3181-41bb-8f4d-112cce57844d",
+      "name": "Tsedengiin Garamjav",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Цэдэнгийн Гарамжав",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "contact_details": [
         {
           "type": "email",
@@ -5920,6 +6370,17 @@
       ]
     },
     {
+      "id": "10420523-8518-43c1-810f-4c3206aa2b2b",
+      "name": "Tömörbaataryn Ayuursaikhan",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Төмөрбаатарын Аюурсайхан",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
       "id": "a44e20f9-6dbb-4df1-bafd-9369bdf66b74",
       "identifiers": [
         {
@@ -6081,6 +6542,28 @@
         }
       ],
       "sort_name": "Yondon OTGONBAYAR"
+    },
+    {
+      "id": "6a83c03b-b8ec-44b9-a565-c5efe059a1b4",
+      "name": "Yondonperenlein Baatarbileg",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Ёндонпэрэнлэйн Баатарбилэг",
+          "note": "multilingual"
+        }
+      ]
+    },
+    {
+      "id": "39de5883-bd5e-4488-bd4b-7c1cf9aee577",
+      "name": "Zagdkhüügiin Narantuya",
+      "other_names": [
+        {
+          "lang": "mn",
+          "name": "Загдхүүгийн Нарантуя",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1966-05-23",
@@ -7270,6 +7753,11 @@
     },
     {
       "classification": "party",
+      "id": "party/mongolian_democratic_party",
+      "name": "Mongolian Democratic Party"
+    },
+    {
+      "classification": "party",
       "id": "party/mongolian_people's_party",
       "identifiers": [
         {
@@ -7578,6 +8066,11 @@
       ]
     },
     {
+      "classification": "party",
+      "id": "party/mongolian_people's_revolutionary_party",
+      "name": "Mongolian People's Revolutionary Party"
+    },
+    {
       "classification": "legislature",
       "id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
       "identifiers": [
@@ -7677,6 +8170,19 @@
       ]
     },
     {
+      "area_id": "area/uvs",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "0d334c52-9714-4701-8ac8-b06df1c2061d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/bayan-Ölgii",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -7686,6 +8192,58 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bayan-Ölgii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "0de0e663-1792-4ea8-8320-43d78fff631f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/dornod",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "0df212d1-3ddd-4592-9f56-ef9f1a76e190",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_baganuur•sükhbaatar",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "0e310619-1c24-4cef-a0cc-f242872878a7",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_chingeltei•nalaikh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "10420523-8518-43c1-810f-4c3206aa2b2b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -7741,6 +8299,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "11454c5e-ebf6-4a0d-826f-37e4a0f6e01e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/dornod",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -7762,6 +8333,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/selenge",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "19444af9-ff6c-46c3-95cc-cc90be718fbf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khovd",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "1ba63d35-b329-4b7d-9b95-3d9f9c2fb4ba",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -7812,6 +8409,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_chingeltei•nalaikh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "1f2733f3-fd76-4472-84cf-02c5dd68cce6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/govi-altai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "2118ed39-2a9e-4d05-a1ef-0ce1bd41bf08",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -7893,6 +8516,19 @@
       ]
     },
     {
+      "area_id": "area/khentii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "2a559f7f-ac5a-44f5-92b7-654eb12a947c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/bayan-Ölgii",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -7915,6 +8551,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/arkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "2c9eaa16-c1ab-4b9f-96b9-85bc89e5bb41",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khentii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "308033ef-ff37-4bb9-990d-ef9976c99919",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -7971,6 +8633,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bayangol",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "3329774a-83b0-4d41-89eb-c285a069201e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/selenge",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/democratic_party",
@@ -8023,6 +8698,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_baganuur•sükhbaatar",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "36077b4f-cecb-47ef-839f-7e0f09d42110",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/arkhangai",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/democratic_party",
@@ -8048,6 +8736,19 @@
       ]
     },
     {
+      "area_id": "area/zavkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "39de5883-bd5e-4488-bd4b-7c1cf9aee577",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/darkhan-uul",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8057,6 +8758,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/darkhan-uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "3cc6fb9d-7afd-4ac7-8d88-2093e09b419e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bayan-Ölgii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "3f7644bc-bd99-431f-b9a7-be930aa1934d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8083,6 +8810,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/Ömnögovi",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "41923e4f-fe8d-4951-8fdc-e5ae426d36c3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khövsgöl",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "44e41523-3157-4187-accd-a55f8917eeb6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8138,6 +8891,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bagakhangai•khan_uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "45a20ead-0d7d-440f-8a0e-dc322844803f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/civil_will-green_party",
       "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
@@ -8159,6 +8925,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bagakhangai•khan_uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "47ec2aa6-56cb-4eb7-99b3-95d2826851a9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/arkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "484f3ef1-5c43-4ab7-82e5-f1a1398dc84f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8185,6 +8977,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "48e5bda2-c6ed-4376-a4da-0081a59e546a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/darkhan-uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "4b1dc780-ee43-4d0d-80e5-53b21d6d450f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8252,6 +9070,32 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bayangol",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "50218128-a922-4256-addf-b6c82e312a73",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bagakhangai•khan_uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "50ce5845-1d74-40c2-bd5a-2469655f53ae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/darkhan-uul",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/independent",
@@ -8287,6 +9131,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/orkhon",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "575ebc42-b190-4b62-be08-7548cefee957",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8338,6 +9195,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/orkhon",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "6099d378-bcdb-4caf-8be9-100f469c946e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "60b4d467-6a8e-4c03-a7a0-5f982916332f",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8433,6 +9316,19 @@
       ]
     },
     {
+      "area_id": "area/uvs",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "63d33048-8f25-4674-b96d-6df3c6d3ef6b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/dundgovi",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/democratic_party",
@@ -8442,6 +9338,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/dundgovi",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "6512664b-8106-4dc8-a822-76d6d9810515",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8472,6 +9381,32 @@
       ]
     },
     {
+      "area_id": "area/khövsgöl",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "65fdbb42-20e3-47cc-b7b5-450c496c9ac3",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/arkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "6a83c03b-b8ec-44b9-a565-c5efe059a1b4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/darkhan-uul",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8494,6 +9429,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bayankhongor",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "6dd1ba94-0ef1-4fbc-9656-c0596d343117",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8550,6 +9498,32 @@
       ]
     },
     {
+      "area_id": "area/dornod",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "70e525ac-89aa-4951-a711-630fab059ca6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/Övörkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "74a4826f-96a0-4ace-b95a-428c8533685d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/ulaanbaatar_—_baganuur•bagakhangai•khan-uul",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/democratic_party",
@@ -8572,6 +9546,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/independent",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "7716c656-9e5b-4154-b5e4-121eb034e353",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8623,6 +9610,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "86ca7119-76eb-40e9-8b26-72de2184b70b",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8653,6 +9653,19 @@
       ]
     },
     {
+      "area_id": "area/bayankhongor",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "8985975a-50da-4350-bf8d-fbfcf9121a39",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/uvs",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8678,6 +9691,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bagakhangai•khan_uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "8a197aba-85e0-45e4-842d-e250f8a82f66",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/khentii",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8700,6 +9726,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khentii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "8a23a6c6-216c-4b87-a08a-3a526ca4dcbe",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8729,6 +9768,32 @@
       ]
     },
     {
+      "area_id": "area/orkhon",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_revolutionary_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "8b975c75-0c33-4f69-bde4-90becca61dcf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "8bbe46f6-e8cb-4175-9646-ff58e24dc189",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/ulaanbaatar_—_songino_khairkhan",
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8738,6 +9803,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "90b77768-c1e7-465d-ae9e-2d6e125be1e9",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8775,6 +9853,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "9398cdb6-d8de-45f4-9e84-ff1c65616c44",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8869,6 +9960,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_bayanzürkh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "9fbbfd97-6c99-41a7-ac7d-4b9eaf3fb307",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/sükhbaatar",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8894,6 +9998,19 @@
       ]
     },
     {
+      "area_id": "area/sükhbaatar",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "a38867dc-73e6-4990-90df-cf89f0b25be5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/khovd",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -8916,6 +10033,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khovd",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "a439cef5-2afe-47cb-ae83-34048790aa51",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8941,6 +10071,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2008"
+        }
+      ]
+    },
+    {
+      "area_id": "area/Ömnögovi",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "a7b10047-7a6b-417a-a7f0-30a2e9afb59c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_baganuur•sükhbaatar",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "a87b15c3-5d54-4c15-bf6e-6f956e2a3c4a",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -8979,6 +10135,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bayan-Ölgii",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "ab2a5ddb-fd9c-433f-a671-211a7068cc7d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/govisümber•dornogovi",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "acd92ca3-c752-44e1-9918-0a16f3599686",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9060,6 +10242,19 @@
       ]
     },
     {
+      "area_id": "area/khövsgöl",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "b7b67e3b-ec80-4b2f-bfc5-cfe3492b1eae",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/ulan_bator_—_bayanzürkh•nalaikh",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/democratic_party",
@@ -9097,6 +10292,19 @@
       ]
     },
     {
+      "area_id": "area/Övörkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "b823623f-91a6-427a-95da-ea3d771e589c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/govi-altai",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -9119,6 +10327,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayangol",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "b96190ac-789f-43e2-9547-0c118a977b17",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9158,6 +10379,71 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/zavkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "bc99d8b9-8610-4164-a979-1a40cb91fbd2",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/darkhan-uul",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "c63c5407-bdd9-47ff-bbd1-d6e9accf76d5",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/Övörkhangai",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "c6dcd47b-1081-4e02-972e-89a4b772c864",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/govisümber•dornogovi",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "c6f7ad7c-99ed-403e-a321-a89f56c639fb",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bayankhongor",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "c7ddac53-c139-41d9-8ed5-73202954e9bd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9213,6 +10499,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_chingeltei•nalaikh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "ce1dd40a-2f50-4beb-a7fb-86d4071816c6",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/dundgovi",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -9239,6 +10538,19 @@
       ]
     },
     {
+      "area_id": "area/töv",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "d19e82bf-0260-4e32-ad44-0b60a853e74c",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/democratic_party",
       "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
@@ -9247,6 +10559,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_bayangol",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "d3904fb6-889e-48b8-a90c-4e5a2855153e",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9302,6 +10627,58 @@
       ]
     },
     {
+      "area_id": "area/töv",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "d86ac537-e736-468c-8209-e04947449aaf",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/khovd",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_democratic_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "da4c3f14-ab63-4c35-abe2-e71142add047",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_chingeltei•nalaikh",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "dadf914b-6fac-4442-ae8d-499ff6932090",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/töv",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "dc17e923-732e-4efc-b47c-124ef78e5434",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "legislative_period_id": "term/2012",
       "on_behalf_of_id": "party/democratic_party",
       "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
@@ -9310,6 +10687,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/bulgan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "dd45b3b5-0748-44a7-9ad5-7128de08a963",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9348,6 +10738,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/selenge",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "e1ac0250-65a0-4064-a99c-efe16d993e83",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9429,6 +10832,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_baganuur•sükhbaatar",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "e9db8a15-a158-458d-a772-e954888e6eb4",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/zavkhan",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -9455,6 +10871,19 @@
       ]
     },
     {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "f32f0615-df0f-4d7b-8284-9c5a74c9d588",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
       "area_id": "area/uvs",
       "legislative_period_id": "term/2008",
       "on_behalf_of_id": "party/mongolian_people's_party",
@@ -9477,6 +10906,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/uvs",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "f85e7e30-eb6a-4a7f-88f9-ec7b22470886",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9503,6 +10945,19 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/selenge",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "fc0dd3ab-b36f-4bb8-ada2-a390e7b037fd",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9542,6 +10997,32 @@
       "sources": [
         {
           "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2012"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "fdfa1c8b-4f8c-4685-b98d-3f9ee2e60134",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
+        }
+      ]
+    },
+    {
+      "area_id": "area/ulaanbaatar_—_songino_khairkhan",
+      "legislative_period_id": "term/2016",
+      "on_behalf_of_id": "party/mongolian_people's_party",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "person_id": "fe0b06bf-3181-41bb-8f4d-112cce57844d",
+      "role": "member",
+      "sources": [
+        {
+          "url": "https://en.wikipedia.org/wiki/List_of_MPs_elected_in_the_Mongolian_legislative_election,_2016"
         }
       ]
     },
@@ -9822,6 +11303,13 @@
       ],
       "name": "Mongolian legislative election, 2016",
       "start_date": "2016-06-29"
+    },
+    {
+      "classification": "legislative period",
+      "id": "term/2016",
+      "name": "State Grand Khural 2016-",
+      "organization_id": "8f116a9e-8a59-4f88-9a0f-395c53a87a23",
+      "start_date": "2016-07-05"
     }
   ],
   "areas": [
@@ -9906,13 +11394,28 @@
       "type": "constituency"
     },
     {
+      "id": "area/ulaanbaatar_—_bagakhangai•khan_uul",
+      "name": "Ulaanbaatar — Bagakhangai•Khan Uul",
+      "type": "constituency"
+    },
+    {
       "id": "area/ulaanbaatar_—_baganuur•bagakhangai•khan-uul",
       "name": "Ulaanbaatar — Baganuur•Bagakhangai•Khan-Uul",
       "type": "constituency"
     },
     {
+      "id": "area/ulaanbaatar_—_baganuur•sükhbaatar",
+      "name": "Ulaanbaatar — Baganuur•Sükhbaatar",
+      "type": "constituency"
+    },
+    {
       "id": "area/ulaanbaatar_—_bayangol",
       "name": "Ulaanbaatar — Bayangol",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulaanbaatar_—_bayanzürkh",
+      "name": "Ulaanbaatar — Bayanzürkh",
       "type": "constituency"
     },
     {
@@ -9923,6 +11426,11 @@
     {
       "id": "area/ulaanbaatar_—_chingeltei",
       "name": "Ulaanbaatar — Chingeltei",
+      "type": "constituency"
+    },
+    {
+      "id": "area/ulaanbaatar_—_chingeltei•nalaikh",
+      "name": "Ulaanbaatar — Chingeltei•Nalaikh",
       "type": "constituency"
     },
     {
