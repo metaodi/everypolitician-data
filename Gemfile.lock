@@ -37,6 +37,12 @@ GIT
       require_all
 
 GIT
+  remote: https://github.com/everypolitician/field_serializer.git
+  revision: 07e89a97eebe4e85ec23f46e04c7e061ac0fe166
+  specs:
+    field_serializer (0.3.0)
+
+GIT
   remote: https://github.com/everypolitician/twitter_username_extractor.git
   revision: cc0aebc0ac8724f2d32ffba8426489ca7b1d92dd
   specs:
@@ -119,7 +125,7 @@ GEM
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
     open_uri_redirections (0.2.1)
-    parser (2.3.1.2)
+    parser (2.3.3.1)
       ast (~> 2.2)
     path_expander (1.0.0)
     pkg-config (1.1.7)
@@ -136,7 +142,7 @@ GEM
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
       netrc (~> 0.8)
-    rubocop (0.42.0)
+    rubocop (0.46.0)
       parser (>= 2.3.1.1, < 3.0)
       powerpack (~> 0.1)
       rainbow (>= 1.99.1, < 3.0)
@@ -161,7 +167,7 @@ GEM
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.7.2)
-    unicode-display_width (1.1.0)
+    unicode-display_width (1.1.2)
     unicode_utils (1.4.0)
     uri_template (0.7.0)
     vcr (3.0.3)
@@ -184,6 +190,7 @@ DEPENDENCIES
   everypolitician-popolo!
   everypolitician-pull_request!
   facebook_username_extractor (~> 0.2.0)
+  field_serializer!
   flog
   fuzzy_match
   json

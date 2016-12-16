@@ -1,7 +1,15 @@
 {
   "people": {
     "count": 191,
-    "wikidata": 0
+    "wikidata": 0,
+    "latest_term": {
+      "count": 191,
+      "contacts": {
+        "email": 0,
+        "facebook": 0,
+        "twitter": 0
+      }
+    }
   },
   "groups": {
     "count": 6,
@@ -12,8 +20,8 @@
     "latest": "2011-06-23"
   },
   "elections": {
-    "count": 10,
-    "latest": "2011-02-13"
+    "count": 11,
+    "latest": "2016"
   },
   "positions": {
     "cabinet": 0
