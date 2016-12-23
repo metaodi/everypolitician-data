@@ -48,7 +48,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 140,Rahou El Hilaa,El Hilaa Rahou,Rahou,El Hilaa,رحو الهليع,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,TIFELT - ROMMANI,KHEMISSET,2016-10-07,,,10
 141,Essaad Benzaroual,Benzaroual Essaad,Essaad,Benzaroual,السعد بنزروال,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,SIDI KACEM,SIDI KACEM,2016-10-07,,,10
 142,Mohamed El Hilali,El Hilali Mohamed,Mohamed,El Hilali,محمد الهلالي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,SKHIRATE - TEMARA,SKHIRATE - TEMARA,2016-10-07,,,10
-143,Nourdine Herouchi,Herouchi Nourdine,Nourdine,Herouchi,نور الدين الهاروشي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,TETOUAN,TETOUAN,2016-10-07,,,10
+143,Nourdine Herouchi,Herouchi Nourdine,Nourdine,Herouchi,نور الدين الهروشي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,TETOUAN,TETOUAN,2016-10-07,,,10
 144,Mohamed Hemmouti,Hemmouti Mohamed,Mohamed,Hemmouti,محمد الحموتي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,ALHOUCEIMA,ALHOUCEIMA,2016-10-07,,,10
 145,Omar Zerrad,Zerrad Omar,Omar,Zerrad,عمر الزراد,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,ALHOUCEIMA,ALHOUCEIMA,2016-10-07,,,10
 146,Fouad El Omari,El Omari Fouad,Fouad,El Omari,فؤاد العماري,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,TANGER-ASSILAH,TANGER-ASSILAH,2016-10-07,,,10
@@ -92,7 +92,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 180,Mohamed Ibrahimi,Ibrahimi Mohamed,Mohamed,Ibrahimi,محمد ابراهيمي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,BERKANE,BERKANE,2016-10-07,,,10
 181,Driss Ouqemni,Ouqemni Driss,Driss,Ouqemni,ادريس اوقمني,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,FIGUIG,FIGUIG,2016-10-07,,,10
 182,Sidi Mohamed Salem Joumani,Joumani Sidi Mohamed Salem,Sidi Mohamed Salem,Joumani,سيدي محمد سالم الجماني,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,LAAYOUNE,LAAYOUNE,2016-10-07,,,10
-183,Abdellah Idabadda,Idabadda Abdellah,Abdellah,Idabadda,عبد الله دبادا,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,BOUJDOUR,BOUJDOUR,2016-10-07,,,10
+183,Abdellah Idabadda,Idabadda Abdellah,Abdellah,Idabadda,عبد الله ادبادا,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,BOUJDOUR,BOUJDOUR,2016-10-07,,,10
 184,Abdellah Bilat,Bilat Abdellah,Abdellah,Bilat,عبد الله بيلات,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,TARFAYA,TARFAYA,2016-10-07,,,10
 185,Zoubir Habdi,Habdi Zoubir,Zoubir,Habdi,الزبير حبدي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,ES-SEMARA,ES-SEMARA,2016-10-07,,,10
 186,Fouad Derqaoui,Derqaoui Fouad,Fouad,Derqaoui,فواد الدرقاوي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,DRIOUCH,DRIOUCH,2016-10-07,,,10
@@ -124,8 +124,8 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 209,Zhour Ouahabi,Ouahabi Zhour,Zhour,Ouahabi,زهور الوهابي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
 21,Abdeljalil Meskine,Meskine Abdeljalil,Abdeljalil,Meskine,عبد الجليل مسكين,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,TAROUDANNT AL JANOUBIA,TAROUDANNT,2016-10-07,,,10
 210,Mouna Achrit,Achrit Mouna,Mouna,Achrit,مونى أشريط,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
-211,Meriem Ouahssat,Ouahssat Meriem,Meriem,Ouahssat,عائشة وحساة,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
-212,Aicha Farah,Farah Aicha,Aicha,Farah,مريم فرح,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
+211,Meriem Ouahssat,Ouahssat Meriem,Meriem,Ouahssat,مريم وحساة,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
+212,Aicha Farah,Farah Aicha,Aicha,Farah,عائشة فرح,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
 213,Ibtissam Azzaoui,Azzaoui Ibtissam,Ibtissam,Azzaoui,ابتسام عزاوي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,,10
 214,Zakia Mrini,Mrini Zakia,Zakia,Mrini,زكية المريني,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,female,10
 215,Badia Filali,Filali Badia,Badia,Filali,بديعة القيلالي,Parti Authenticité et Modernité,PAM,حزب الأصالة والمعاصرة,National,Liste Nationale,2016-10-07,,female,10
@@ -152,7 +152,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 234,Mohamed Elhafed,Elhafed Mohamed,Mohamed,Elhafed,محمد الحافظ,Parti de l'Istiqlal,PI,حزب الاستقلال,SIDI KACEM,SIDI KACEM,2016-10-07,,,10
 235,Nourdine Moudian,Moudian Nourdine,Nourdine,Moudian,نور الدين مضيان,Parti de l'Istiqlal,PI,حزب الاستقلال,ALHOUCEIMA,ALHOUCEIMA,2016-10-07,,,10
 236,Ismail Bekkali,Bekkali Ismail,Ismail,Bekkali,اسماعيل البقالي,Parti de l'Istiqlal,PI,حزب الاستقلال,CHEFCHAOUEN,CHEFCHAOUEN,2016-10-07,,,10
-237,Abdelaziz Lachhab,Lachhab Abdelaziz,Abdelaziz,Lachhab,عبد العزيز الأشهب,Parti de l'Istiqlal,PI,حزب الاستقلال,OUEZZANE,OUEZZANE,2016-10-07,,,10
+237,Abdelaziz Lachhab,Lachhab Abdelaziz,Abdelaziz,Lachhab,عبد العزيز لشهب,Parti de l'Istiqlal,PI,حزب الاستقلال,OUEZZANE,OUEZZANE,2016-10-07,,,10
 238,Mohamed Idmoussa,Idmoussa Mohamed,Mohamed,Idmoussa,محمد إدموسى,Parti de l'Istiqlal,PI,حزب الاستقلال,AL HAOUZ,AL HAOUZ,2016-10-07,,,10
 239,Hicham Saanan,Saanan Hicham,Hicham,Saanan,هشام سعنان,Parti de l'Istiqlal,PI,حزب الاستقلال,SAFI,SAFI,2016-10-07,,,10
 24,Brahim Boughden,Boughden Brahim,Brahim,Boughden,ابراهيم بوغضن,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,TIZNIT,TIZNIT,2016-10-07,,,10
@@ -162,7 +162,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 243,Abderahmane Khayyir,Khayyir Abderahmane,Abderahmane,Khayyir,عبد الرحمان خيير,Parti de l'Istiqlal,PI,حزب الاستقلال,BENI - MELLAL,BENI - MELLAL,2016-10-07,,,10
 244,Saleh Oughbal,Oughbal Saleh,Saleh,Oughbal,صالح اوغبال,Parti de l'Istiqlal,PI,حزب الاستقلال,KHENIFRA,KHENIFRA,2016-10-07,,,10
 245,Essalek Boulon,Boulon Essalek,Essalek,Boulon,السالك بولون,Parti de l'Istiqlal,PI,حزب الاستقلال,TAN - TAN,TAN - TAN,2016-10-07,,,10
-246,Hamdi Ould Rchid,Ould Rchid Hamdi,Hamdi,Ould Rchid,حمدي ولد الرشيد,Parti de l'Istiqlal,PI,حزب الاستقلال,LAAYOUNE,LAAYOUNE,2016-10-07,,,10
+246,Moulay Hamdi Ould Rchid,Ould Rchid Moulay Hamdi,Moulay Hamdi,Ould Rchid,مولاي حمدي ولد الرشيد,Parti de l'Istiqlal,PI,حزب الاستقلال,LAAYOUNE,LAAYOUNE,2016-10-07,,,10
 247,Abdelaziz Aba,Aba Abdelaziz,Abdelaziz,Aba,عبد العزيز آبا,Parti de l'Istiqlal,PI,حزب الاستقلال,BOUJDOUR,BOUJDOUR,2016-10-07,,,10
 248,Sidi Hmed Chiguer,Chiguer Sidi Hmed,Sidi Hmed,Chiguer,سيدي حمد الشيكر,Parti de l'Istiqlal,PI,حزب الاستقلال,ES-SEMARA,ES-SEMARA,2016-10-07,,,10
 249,Ali Jeghaoui,Jeghaoui Ali,Ali,Jeghaoui,علي جغاوي,Parti de l'Istiqlal,PI,حزب الاستقلال,GUERCIF,GUERCIF,2016-10-07,,,10
@@ -204,7 +204,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 281,Rachid Elfayeq,Elfayeq Rachid,Rachid,Elfayeq,رشيد الفايق,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,FES ALJANOUBIA,FES,2016-10-07,,,10
 282,Taoufik Kamil,Kamil Taoufik,Taoufik,Kamil,توفيق كميل,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,BEN M'SICK,BEN M'SICK,2016-10-07,,,10
 283,Hassan Benomar,Benomar Hassan,Hassan,Benomar,حسن بنعمر,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,AIN SEBAA - HAY MOHAMMADI,AIN SEBAA - HAY MOHAMMADI,2016-10-07,,,10
-284,Mustapha Mansouri,Mansouri Mustapha,Mustapha,Mansouri,مصطفى المنصوري,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,NADOR,NADOR,2016-10-07,,,10
+284,Mustapha Mansouri,Mansouri Mustapha,Mustapha,Mansouri,المصطفى المنصوري,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,NADOR,NADOR,2016-10-07,,,10
 285,Abdellah Boukili,Boukili Abdellah,Abdellah,Boukili,عبدالله البوكيلي,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,DRIOUCH,DRIOUCH,2016-10-07,,,10
 286,Mbarka Bouaida,Bouaida Mbarka,Mbarka,Bouaida,مباركة بوعيدة,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,GUELMIM,GUELMIM,2016-10-07,,,10
 287,Abdelkader Kendil,Kendil Abdelkader,Abdelkader,Kendil,عبدالقادر قنديل,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,SIDI BENNOUR,SIDI BENNOUR,2016-10-07,,,10
@@ -221,8 +221,8 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 297,Idar Anjar,Anjar Idar,Idar,Anjar,ايدار أنجار,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,AL HAOUZ,AL HAOUZ,2016-10-07,,,10
 298,Mustapha El Omari,El Omari Mustapha,Mustapha,El Omari,مصطفى العمري,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,ERRACHIDIA,ERRACHIDIA,2016-10-07,,,10
 299,Hmad Ait Baha,Ait Baha Hmad,Hmad,Ait Baha,حماد أيت باها,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,ZAGORA,ZAGORA,2016-10-07,,,10
-3,Rachid Kabil,Kabil Rachid,Rachid,Kabil,رشيد القابيل,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,AIN CHOK,AIN CHOK,2016-10-07,,,10
-30,Driss Skalli Adoui,Skalli Adoui Driss,Driss,Skalli Adoui,ادريس عدوي الصقلي,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,MEKNES,MEKNES,2016-10-07,,,10
+3,Rachid Kabil,Kabil Rachid,Rachid,Kabil,رشيد القبيل,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,AIN CHOK,AIN CHOK,2016-10-07,,,10
+30,Driss Skalli Adoui,Skalli Adoui Driss,Driss,Skalli Adoui,ادريس صقلي عدوي,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,MEKNES,MEKNES,2016-10-07,,,10
 300,Said Chbaatou,Chbaatou Said,Said,Chbaatou,سعيد اشباعتو,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,MIDELT,MIDELT,2016-10-07,,,10
 301,Addi Khzou,Khzou Addi,Addi,Khzou,عدي خزو,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,TINGHIR,TINGHIR,2016-10-07,,,10
 302,Mustapha Baytas,Baytas Mustapha,Mustapha,Baytas,مصطفى بايتاس,Rassemblement National des Indépendants,RNI,حزب التجمع الوطني للأحرار,National,Liste Nationale,2016-10-07,,,10
@@ -285,7 +285,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 354,Abdellatif Mirdass,Mirdass Abdellatif,Abdellatif,Mirdass,عبداللطيف ميرداس,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,SETTAT,SETTAT,2016-10-07,,,10
 355,Belassal Chaoui,Chaoui Belassal,Belassal,Chaoui,الشاوي بالعسال,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,El GHARB,KENITRA,2016-10-07,,,10
 356,Yassine Erradi,Erradi Yassine,Yassine,Erradi,ياسين الراضي,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,SIDI SLIMANE,SIDI SLIMANE,2016-10-07,,,10
-357,Hassan Aarif,Aarif Hassan,Hassan,Aarif,حسن عريف,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,SKHIRATE - TEMARA,SKHIRATE - TEMARA,2016-10-07,,,10
+357,Hassan Aarif,Aarif Hassan,Hassan,Aarif,حسن عاريف,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,SKHIRATE - TEMARA,SKHIRATE - TEMARA,2016-10-07,,,10
 358,Abderahmane Harfi,Harfi Abderahmane,Abderahmane,Harfi,عبد الرحمان حرفي,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,SIDI KACEM,SIDI KACEM,2016-10-07,,,10
 359,Abdellah Alaoui,Alaoui Abdellah,Abdellah,Alaoui,عبدالله العلوي,Parti de l'Union Constitutionnelle,UC,حزب الاتحاد الدستوري,CHEFCHAOUEN,CHEFCHAOUEN,2016-10-07,,,10
 36,Abdellah Hennaoui,Hennaoui Abdellah,Abdellah,Hennaoui,عبد الله هناوي,Parti de la Justice et du Développement,PJD,حزب العدالة والتنمية,ERRACHIDIA,ERRACHIDIA,2016-10-07,,,10
@@ -306,7 +306,7 @@ id,name,sort_name,given_name,family_name,name__ar,party,party_id,party__ar,const
 373,Mohamed Melahi,Melahi Mohamed,Mohamed,Melahi,محمد الملاحي,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,TETOUAN,TETOUAN,2016-10-07,,,10
 374,Mohamed Ahouit,Ahouit Mohamed,Mohamed,Ahouit,محمد أحويط,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,OUEZZANE,OUEZZANE,2016-10-07,,,10
 375,Mohamed Mellal,Mellal Mohamed,Mohamed,Mellal,محمد ملال,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,ESSAOUIRA,ESSAOUIRA,2016-10-07,,,10
-376,Driss Chtibi,Chtibi Driss,Driss,Chtibi,ادريس الشطيبي,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,SEFROU,SEFROU,2016-10-07,,,10
+376,Driss Chtibi,Chtibi Driss,Driss,Chtibi,ادريس اشطيبي,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,SEFROU,SEFROU,2016-10-07,,,10
 377,Mohamed Belafkih,Belafkih Mohamed,Mohamed,Belafkih,محمد بلفقيه,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,SIDI IFNI,SIDI IFNI,2016-10-07,,,10
 378,Nabil Sabri,Sabri Nabil,Nabil,Sabri,نبيل صبري,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,KHENIFRA,KHENIFRA,2016-10-07,,,10
 379,Mohamed Elhabib Nazoumi,Nazoumi Mohamed Elhabib,Mohamed Elhabib,Nazoumi,محمد الحبيب نازومي,Union Socialiste des Forces Populaires,USFP,حزب الاتحاد الاشتراكي للقوات الشعبية,GUELMIM,GUELMIM,2016-10-07,,,10
