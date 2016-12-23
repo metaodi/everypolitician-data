@@ -6422,23 +6422,31 @@
         "slug": "House",
         "sources_directory": "data/Morocco/House/sources",
         "popolo": "data/Morocco/House/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bd1ac0f884af6e3a317a5abb1aff76c2116c2fcd/data/Morocco/House/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/661b6948c7eb8beb46367cef72d7cd288bdec6b7/data/Morocco/House/ep-popolo-v1.0.json",
         "names": "data/Morocco/House/names.csv",
-        "lastmod": "1480691690",
-        "person_count": 407,
-        "sha": "bd1ac0f884af6e3a317a5abb1aff76c2116c2fcd",
+        "lastmod": "1482506332",
+        "person_count": 681,
+        "sha": "661b6948c7eb8beb46367cef72d7cd288bdec6b7",
         "legislative_periods": [
           {
-            "end_date": "2016",
+            "id": "term/10",
+            "name": "10th Legislature",
+            "start_date": "2016-10-07",
+            "slug": "10",
+            "csv": "data/Morocco/House/term-10.csv",
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/661b6948c7eb8beb46367cef72d7cd288bdec6b7/data/Morocco/House/term-10.csv"
+          },
+          {
+            "end_date": "2016-10-06",
             "id": "term/9",
             "name": "9th Legislature",
             "start_date": "2011-12-19",
             "slug": "9",
             "csv": "data/Morocco/House/term-9.csv",
-            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/bd1ac0f884af6e3a317a5abb1aff76c2116c2fcd/data/Morocco/House/term-9.csv"
+            "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/661b6948c7eb8beb46367cef72d7cd288bdec6b7/data/Morocco/House/term-9.csv"
           }
         ],
-        "statement_count": 8074,
+        "statement_count": 13405,
         "type": "lower house"
       }
     ]
