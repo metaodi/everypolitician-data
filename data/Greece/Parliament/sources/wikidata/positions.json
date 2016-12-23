@@ -1568,6 +1568,37 @@
       }
     }
   ],
+  "Q26262579": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2012-02-12",
+        "P768": "Athens A",
+        "P582": "2012-04-11"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2015-01-25",
+        "P582": "2015-08-28",
+        "P768": "Q12876831"
+      }
+    },
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P580": "2015-09-20",
+        "P768": "Q12876831"
+      }
+    }
+  ],
   "Q4831233": [
     {
       "id": "Q18915989",
@@ -4124,6 +4155,22 @@
       }
     }
   ],
+  "Q14537906": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Q23021868"
+      }
+    },
+    {
+      "id": "Q23653075",
+      "label": "Greek vice-ministre of Health and Social Solidarity",
+      "title": "Greek vice-ministre of Health and Social Solidarity",
+      "description": "undersecretary to a ministry of the Greek government"
+    }
+  ],
   "Q2040292": [
     {
       "id": "Q18915989",
@@ -6259,6 +6306,16 @@
       "title": "Member of the Hellenic Parliament",
       "qualifiers": {
         "P768": "Q12876837"
+      }
+    }
+  ],
+  "Q20054963": [
+    {
+      "id": "Q18915989",
+      "label": "Member of the Hellenic Parliament",
+      "title": "Member of the Hellenic Parliament",
+      "qualifiers": {
+        "P768": "Piraeus B"
       }
     }
   ],
