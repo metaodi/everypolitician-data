@@ -681,7 +681,20 @@
     },
     {
       "id": "77e265ca-c3fa-4dfe-853a-2a1cfc5dd2a8",
-      "name": "Alar Nääme"
+      "identifiers": [
+        {
+          "identifier": "Q28070823",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Alar Nääme",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Alar Nääme",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1971-10-25",
@@ -3869,7 +3882,20 @@
     },
     {
       "id": "5a86c6ce-72cb-4e26-a419-0fa3e884cd9f",
-      "name": "Eevi Paasmäe"
+      "identifiers": [
+        {
+          "identifier": "Q28070826",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Eevi Paasmäe",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Eevi Paasmäe",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1953-09-05",
@@ -6697,7 +6723,20 @@
       ],
       "email": "igor.kravtsenko@riigikogu.ee",
       "id": "a1e48234-395a-4d6c-b2f8-777db773c5d1",
-      "name": "Igor Kravtšenko"
+      "identifiers": [
+        {
+          "identifier": "Q28070824",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Igor Kravtšenko",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Igor Kravtšenko",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1969-03-13",
@@ -22380,7 +22419,20 @@
       ],
       "email": "toomas.vainaste@riigikogu.ee",
       "id": "354ef3a8-150a-4226-9442-c8fcf780dfc0",
-      "name": "Toomas Väinaste"
+      "identifiers": [
+        {
+          "identifier": "Q28070825",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Toomas Väinaste",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Toomas Väinaste",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1970-10-29",
@@ -24952,7 +25004,20 @@
     },
     {
       "id": "5603c46f-d8f8-41d6-9957-472c68f34c27",
-      "name": "Vladimir Arhipov"
+      "identifiers": [
+        {
+          "identifier": "Q28070827",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "Vladimir Arhipov",
+      "other_names": [
+        {
+          "lang": "en",
+          "name": "Vladimir Arhipov",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1945-09-25",
