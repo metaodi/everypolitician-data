@@ -1,2 +1,5 @@
-id,name,start_date,source
-54,Législature 54,2014-06-19,http://www.lachambre.be/kvvcr/showpage.cfm?section=/depute&language=fr&cfm=cvlist54.cfm?legis=54
+id,name,start_date,end_date,wikidata
+54,Législature 54,2014-06-19,,Q17173094
+53,Législature 53,2010-06-13,2014-05-25,Q656480
+52,Législature 52,2007-06-28,2010-05-07,Q844873
+51,Législature 51,2003-06-05,2007-06-28,Q1661851
