@@ -6149,11 +6149,11 @@
         "slug": "Deputies",
         "sources_directory": "data/Mexico/Deputies/sources",
         "popolo": "data/Mexico/Deputies/ep-popolo-v1.0.json",
-        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/620bd78499841f7370e803eec04842a8cc2c11f3/data/Mexico/Deputies/ep-popolo-v1.0.json",
+        "popolo_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/ce9369a8c2d00a74b58f9433c5bfba7442ed5dce/data/Mexico/Deputies/ep-popolo-v1.0.json",
         "names": "data/Mexico/Deputies/names.csv",
-        "lastmod": "1482306672",
+        "lastmod": "1483006855",
         "person_count": 1031,
-        "sha": "620bd78499841f7370e803eec04842a8cc2c11f3",
+        "sha": "ce9369a8c2d00a74b58f9433c5bfba7442ed5dce",
         "legislative_periods": [
           {
             "id": "term/63",
@@ -6173,7 +6173,7 @@
             "csv_url": "https://cdn.rawgit.com/everypolitician/everypolitician-data/7bf22d791c9717a01083e5b4e7c48ea8a656e7a7/data/Mexico/Deputies/term-62.csv"
           }
         ],
-        "statement_count": 30489,
+        "statement_count": 30493,
         "type": "lower house"
       }
     ]
